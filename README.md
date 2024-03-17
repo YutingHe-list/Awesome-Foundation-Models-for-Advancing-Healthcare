@@ -32,9 +32,9 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 ## LFM data
 
 ## VFM data
-|                           Dataset  Name                               | Modality  |            Scale           |      Task      |                     Link                              |
-| :-------------------------------------------------------------------: | :-------: | :------------------------: | :------------: | :---------------------------------------------------: |
-|[LIMUC](https://academic.oup.com/ibdjournal/article/29/9/1431/6830946) | Endoscopy | 1042 videos (11276 frames) |     Detection  |[\surd](https://zenodo.org/records/5827695#.Yi8GJ3pByUk)|
+|                           Dataset  Name                               | Modality  |            Scale           |    Task    |                       Link                             |
+| :-------------------------------------------------------------------: | :-------: | :------------------------: | :--------: | :----------------------------------------------------: |
+|[LIMUC](https://academic.oup.com/ibdjournal/article/29/9/1431/6830946) | Endoscopy | 1042 videos (11276 frames) |  Detection |[surd](https://zenodo.org/records/5827695#.Yi8GJ3pByUk)|
 ## BFM data
 ## MFM data
 
