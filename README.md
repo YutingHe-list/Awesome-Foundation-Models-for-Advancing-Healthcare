@@ -34,6 +34,7 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - Advancing radiograph representation learning with masked record modeling.[[Paper]](https://arxiv.org/abs/2301.13155) [[Code]](https://github.com/RL4M/MRM-pytorch)
 - Towards Generalist Foundation Model for Radiology by Leveraging Web-scale 2D&3D Medical Data. [[Paper]](https://arxiv.org/pdf/2308.02463.pdf) [[Code]](https://github.com/chaoyi-wu/RadFM)
 - Translation between Molecules and Natural Language. [[Paper]](https://aclanthology.org/2022.emnlp-main.26.pdf) [[Code]](https://github.com/blender-nlp/MolT5)
+- BiomedGPT: A Unified and Generalist Biomedical Generative Pre-trained Transformer for Vision, Language, and Multimodal Tasks. [[Paper]](https://arxiv.org/abs/2305.17100) [[Code]](https://github.com/taokz/BiomedGPT) 
 # Datasets
 ## LFM data
 
