@@ -32,7 +32,7 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 
 # Methods
 ## LFM methods
-  ###LFM Pre-training
+  ### LFM Pre-training
 ## VFM methods
 ## BFM methods
 ## MFM methods
