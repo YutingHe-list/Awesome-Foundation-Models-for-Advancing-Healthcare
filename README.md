@@ -38,7 +38,7 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 ## VFM methods
 ## BFM methods
 [1] single cell foundation models:
-  - scGPT: toward building a foundation model for single-cell multi-omics using generative AI. [[Paper]](https://www.nature.com/articles/s41592-024-02201-0), [[Code]](https://github.com/bowang-lab/scGPT)
+  - [Nature Method] scGPT: toward building a foundation model for single-cell multi-omics using generative AI. [[Paper]](https://www.nature.com/articles/s41592-024-02201-0), [[Code]](https://github.com/bowang-lab/scGPT)
 ## MFM methods
 
 
