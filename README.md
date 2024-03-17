@@ -28,7 +28,7 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 ## VFM methods
 ## BFM methods
 ## MFM methods
-- MMBERT: MMBERT: Multimodal BERT Pretraining for Improved Medical VQA. [[Paper]](https://arxiv.org/abs/2104.01394) [[Code]](https://github.com/VirajBagal/MMBERT)
+- MMBERT: Multimodal BERT Pretraining for Improved Medical VQA. [[Paper]](https://arxiv.org/abs/2104.01394) [[Code]](https://github.com/VirajBagal/MMBERT)
 # Datasets
 ## LFM data
 
