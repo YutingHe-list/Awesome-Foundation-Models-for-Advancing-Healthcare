@@ -10,7 +10,7 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - [Methods](#methods)
   - [LFM methods](#lfm-methods)
   - [VFM methods](#vfm-methods)
-  - [BFM methods](#bfm methods)
+  - [BFM methods](#bfm-methods)
   - [MFM methods](#mfm-methods)
 - [Datasets](#datasets)
 - - [LFM data](#lfm-data)
@@ -30,18 +30,17 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 
 # Datasets
 ## LFM data
+
 ## VFM data
+|                           Dataset  Name                               | Modality  |            Scale           |      Task      |                     Link                              |
+| :-------------------------------------------------------------------: | :-------: | :------------------------: | :------------: | :---------------------------------------------------: |
+|[LIMUC](https://academic.oup.com/ibdjournal/article/29/9/1431/6830946) | Endoscopy | 1042 videos (11276 frames) |     Detection  |[link](https://zenodo.org/records/5827695#.Yi8GJ3pByUk)|
 ## BFM data
 ## MFM data
 
 # Lectures and Tutorials
 
 # Other Resources
-
-
-|                           Dataset                            | Number | Modality  |     Region     |     Format      |
-| :----------------------------------------------------------: | :----: | :-------: | :------------: | :-------------: |
-|                                                              |   10   |  4D  CT   |      Lung      |      .img       |
 
 
 
