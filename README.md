@@ -9,17 +9,9 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - [Related Survery](#related-survey)
 - [Methods](#methods)
   - [LFM methods](#lfm-methods)
-    - [LFM pre-training](#lfm-pre-training)
-    - [LFM adaptation](#lfm-adaptation)
   - [VFM methods](#vfm-methods)
-    - [VFM pre-training](#vfm-pre-training)
-    - [VFM adaptation](#vfm-adaptation)
   - [BFM methods](#bfm methods)
-    - [BFM pre-training](#bfm-pre-training)
-    - [BFM adaptation](#bfm-adaptation)
   - [MFM methods](#mfm-methods)
-    - [MFM pre-training](#mfm-pre-training)
-    - [MFM adaptation](#mfm-adaptation)
 - [Datasets](#datasets)
 - - [LFM data](#lfm-data)
   - [VFM data](#vfm-data)
@@ -32,12 +24,15 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 
 # Methods
 ## LFM methods
-  ### LFM Pre-training
 ## VFM methods
 ## BFM methods
 ## MFM methods
 
 # Datasets
+## LFM data
+## VFM data
+## BFM data
+## MFM data
 
 # Lectures and Tutorials
 
