@@ -24,6 +24,7 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 
 # Methods
 ## LFM methods
+- MedCPT: Contrastive pre-trained transformers with large-scale pubmed search logs for zero-shot biomedical information retrieval. [[Paper]](https://academic.oup.com/bioinformatics/article-abstract/39/11/btad651/7335842) [[Code]](https://github.com/ncbi/MedCPT)
 ## VFM methods
 ## BFM methods
 ## MFM methods
