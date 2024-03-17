@@ -6,21 +6,20 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 
 # Contents
 - [Awesome-Foundation-Models-for-Advancing-Healthcare](#Awesome-Foundation-Models-for-Advancing-Healthcare)
-- [Related Survery](#survey)
+- [Related Survery](#related-survey)
 - [Methods](#methods)
-  - [LFMs](#lfm)
-    - [LFM pre-training](#pre_training_lfm)
-    - [LFM adaptation](#adaptation_lfm)
-  - [VFMs](#vfm)
-    - [VFM pre-training](#pre_training_vfm)
-    - [VFM adaptation](#adaptation_vfm)
-  - [BFMs](#bfm)
-    - [BFM pre-training](#pre_training_bfm)
-    - [BFM adaptation](#adaptation_bfm)
-  - [MFMs](#mfm)
-    - [MFM pre-training](#pre_training_mfm)
-    - [MFM adaptation](#adaptation_mfm)
-  - [Benchmarks](#benchmarks)
+  - [LFM methods](#lfm-methods)
+    - [LFM pre-training](#lfm-pre-training)
+    - [LFM adaptation](#lfm-adaptation)
+  - [VFM methods](#vfm-methods)
+    - [VFM pre-training](#vfm-pre-training)
+    - [VFM adaptation](#vfm-adaptation)
+  - [BFM methods](#bfm methods)
+    - [BFM pre-training](#bfm-pre-training)
+    - [BFM adaptation](#bfm-adaptation)
+  - [MFM methods](#mfm-methods)
+    - [MFM pre-training](#mfm-pre-training)
+    - [MFM adaptation](#mfm-adaptation)
 - [Datasets](#datasets)
 - - [LFM data](#lfm-data)
   - [VFM data](#vfm-data)
@@ -32,6 +31,11 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 # Related Survey
 
 # Methods
+## LFM methods
+  ###LFM Pre-training
+## VFM methods
+## BFM methods
+## MFM methods
 
 # Datasets
 
