@@ -57,12 +57,12 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 |                           Dataset  Name                               | Modality  |            Scale           |    Task    |                       Link                             |
 | :-------------------------------------------------------------------: | :-------: | :------------------------: | :--------: | :----------------------------------------------------: |
 |[LIMUC](https://academic.oup.com/ibdjournal/article/29/9/1431/6830946) | Endoscopy | 1042 videos (11276 frames) |  Detection |[*](https://zenodo.org/records/5827695#.Yi8GJ3pByUk)|
-|[SUN](https://academic.oup.com/ibdjournal/article/29/9/1431/6830946) | Endoscopy | 1042 videos (11276 frames) |  Detection |[*](https://zenodo.org/records/5827695#.Yi8GJ3pByUk)|
-|[Kvasir-Capsule](https://academic.oup.com/ibdjournal/article/29/9/1431/6830946) | Endoscopy | 1042 videos (11276 frames) |  Detection |[*](https://zenodo.org/records/5827695#.Yi8GJ3pByUk)|
-|[EndoSLAM](https://academic.oup.com/ibdjournal/article/29/9/1431/6830946) | Endoscopy | 1042 videos (11276 frames) |  Detection |[*](https://zenodo.org/records/5827695#.Yi8GJ3pByUk)|
+|[SUN](https://academic.oup.com/ibdjournal/article/29/9/1431/6830946) | Endoscopy | 1018 videos (158,690 frames) |  Detection |[*](https://zenodo.org/records/5827695#.Yi8GJ3pByUk)|
+|[Kvasir-Capsule](https://academic.oup.com/ibdjournal/article/29/9/1431/6830946) | Endoscopy | 117 videos (4,741,504 frames) |  Detection |[*](https://zenodo.org/records/5827695#.Yi8GJ3pByUk)|
+|[EndoSLAM](https://academic.oup.com/ibdjournal/article/29/9/1431/6830946) | Endoscopy | 1020 videos (158,690 frames) |  Detection |[*](https://zenodo.org/records/5827695#.Yi8GJ3pByUk)|
 |[LDPolypVideo](https://academic.oup.com/ibdjournal/article/29/9/1431/6830946) | Endoscopy | 1042 videos (11276 frames) |  Detection |[*](https://zenodo.org/records/5827695#.Yi8GJ3pByUk)|
-|[HyperKvasir](https://academic.oup.com/ibdjournal/article/29/9/1431/6830946) | Endoscopy | 1042 videos (11276 frames) |  Detection |[*](https://zenodo.org/records/5827695#.Yi8GJ3pByUk)|
-|[CholecT45](https://academic.oup.com/ibdjournal/article/29/9/1431/6830946) | Endoscopy | 1042 videos (11276 frames) |  Detection |[*](https://zenodo.org/records/5827695#.Yi8GJ3pByUk)|
+|[HyperKvasir](https://academic.oup.com/ibdjournal/article/29/9/1431/6830946) | Endoscopy | 263 videos (895,284 frames) |  Detection |[*](https://zenodo.org/records/5827695#.Yi8GJ3pByUk)|
+|[CholecT45](https://academic.oup.com/ibdjournal/article/29/9/1431/6830946) | Endoscopy |374 videos (1,059,519 frames)|  Detection |[*](https://zenodo.org/records/5827695#.Yi8GJ3pByUk)|
 |[LIMUC](https://academic.oup.com/ibdjournal/article/29/9/1431/6830946) | Endoscopy | 1042 videos (11276 frames) |  Detection |[*](https://zenodo.org/records/5827695#.Yi8GJ3pByUk)|
 |[LIMUC](https://academic.oup.com/ibdjournal/article/29/9/1431/6830946) | Endoscopy | 1042 videos (11276 frames) |  Detection |[*](https://zenodo.org/records/5827695#.Yi8GJ3pByUk)|
 |[LIMUC](https://academic.oup.com/ibdjournal/article/29/9/1431/6830946) | Endoscopy | 1042 videos (11276 frames) |  Detection |[*](https://zenodo.org/records/5827695#.Yi8GJ3pByUk)|
