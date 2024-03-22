@@ -36,6 +36,52 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 
 **2019**
 ## VFM methods
+**2023**
+- STU-Net: Scalable and Transferable Medical Image Segmentation Models Empowered by Large-Scale Supervised Pre-training. [[paper]](https://arxiv.org/pdf/2304.06716.pdf) [[Code]](https://github.com/openmedlab/MIS-FM)
+- STU-Net: Scalable and Transferable Medical Image Segmentation Models Empowered by Large-Scale Supervised Pre-training. [[paper]](https://arxiv.org/pdf/2304.06716.pdf) [[Code]](https://github.com/Ziyan-Huang/STU-Net)
+- Segvol: Universal and interactive volumetric medical image segmentation. [[paper]](https://arxiv.org/pdf/2311.13385.pdf) [[Code]](https://github.com/BAAI-DCAI/SegVol)
+- SAM-Med3D. [[paper]](https://arxiv.org/pdf/2310.15161.pdf) [[Code]](https://github.com/uni-medical/SAM-Med3D)
+- UniverSeg: Universal Medical Image Segmentation. [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Butoi_UniverSeg_Universal_Medical_Image_Segmentation_ICCV_2023_paper.pdf) [[Code]](https://universeg.csail.mit.edu)
+- A Foundation Model for Generalizable Disease Detection from Retinal Images. [[paper]](https://www.nature.com/articles/s41586-023-06555-x) 
+- VisionFM: a Multi-Modal Multi-Task Vision Foundation Model for Generalist Ophthalmic Artificial Intelligence. [[paper]](https://arxiv.org/pdf/2310.04992.pdf) 
+- Models Genesis: Generic Autodidactic Models for 3D Medical Image Analysis. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7405596/) [[Code]](https://github.com/MrGiovanni/ModelsGenesis)
+- [[paper]]() [[Code]]()
+- [[paper]]() [[Code]]()
+- [[paper]]() [[Code]]()
+- [[paper]]() [[Code]]()
+- [[paper]]() [[Code]]()
+- [[paper]]() [[Code]]()
+- [[paper]]() [[Code]]()
+- [[paper]]() [[Code]]()
+- [[paper]]() [[Code]]()
+- [[paper]]() [[Code]]()
+- [[paper]]() [[Code]]()
+- [[paper]]() [[Code]]()
+- [[paper]]() [[Code]]()
+- [[paper]]() [[Code]]()
+- [[paper]]() [[Code]]()
+- [[paper]]() [[Code]]()
+- [[paper]]() [[Code]]()
+- [[paper]]() [[Code]]()
+- [[paper]]() [[Code]]()
+
+**2022**
+- [[paper]]() [[Code]]()
+- [[paper]]() [[Code]]()
+- [[paper]]() [[Code]]()
+- [[paper]]() [[Code]]()
+**2021**
+- Models Genesis. [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841520302048) [[Code]](https://github.com/MrGiovanni/ModelsGenesis)
+- [[paper]]() [[Code]]()
+**2020**
+- [[paper]]() [[Code]]()
+**2019**
+- Med3D: Transfer Learning for 3D Medical Image Analysis. [[paper]](https://arxiv.org/pdf/1904.00625.pdf) [[Code]](https://github.com/Tencent/MedicalNet)  
+- [[paper]]() [[Code]]()
+- [[paper]]() [[Code]]()
+
+
+      
 ## BFM methods
 [1] single cell foundation models:
   - [Nature Method] scGPT: toward building a foundation model for single-cell multi-omics using generative AI. [[Paper]](https://www.nature.com/articles/s41592-024-02201-0), [[Code]](https://github.com/bowang-lab/scGPT)
