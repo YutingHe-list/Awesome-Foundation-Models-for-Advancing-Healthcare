@@ -36,6 +36,15 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 
 **2019**
 ## VFM methods
+**2024**
+- USFM: A Universal Ultrasound Foundation Model Generalized to Tasks and Organs towards Label Efficient Image Analysis. [[paper]](https://arxiv.org/html/2401.00153v2) [[Code]]()
+- LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching.[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/58cc11cda2a2679e8af5c6317aed0af8-Paper-Conference.pdf) [[Code]](https://github.com/duyhominhnguyen/LVM-Med)
+- VoCo: A Simple-yet-Effective Volume Contrastive Learning Framework for 3D Medical Image Analysis. [[paper]](https://arxiv.org/html/2402.17300v1)[[Code]](https://github.com/Luffy03/VoCo)
+- [[paper]]() [[Code]]()
+- [[paper]]() [[Code]]()
+- [[paper]]() [[Code]]()
+- [[paper]]() [[Code]]()
+- [[paper]]() [[Code]]()
 **2023**
 - STU-Net: Scalable and Transferable Medical Image Segmentation Models Empowered by Large-Scale Supervised Pre-training. [[paper]](https://arxiv.org/pdf/2304.06716.pdf) [[Code]](https://github.com/openmedlab/MIS-FM)
 - STU-Net: Scalable and Transferable Medical Image Segmentation Models Empowered by Large-Scale Supervised Pre-training. [[paper]](https://arxiv.org/pdf/2304.06716.pdf) [[Code]](https://github.com/Ziyan-Huang/STU-Net)
@@ -45,12 +54,9 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - A Foundation Model for Generalizable Disease Detection from Retinal Images. [[paper]](https://www.nature.com/articles/s41586-023-06555-x) 
 - VisionFM: a Multi-Modal Multi-Task Vision Foundation Model for Generalist Ophthalmic Artificial Intelligence. [[paper]](https://arxiv.org/pdf/2310.04992.pdf) 
 - Models Genesis: Generic Autodidactic Models for 3D Medical Image Analysis. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7405596/) [[Code]](https://github.com/MrGiovanni/ModelsGenesis)
-- [[paper]]() [[Code]]()
-- [[paper]]() [[Code]]()
-- [[paper]]() [[Code]]()
-- [[paper]]() [[Code]]()
-- [[paper]]() [[Code]]()
-- [[paper]]() [[Code]]()
+- Deblurring Masked Autoencoder is Better Recipe for Ultrasound Image Recognition. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_34) [[Code]](https://github.com/MembrAI/DeblurringMIM)
+- Foundation Model for Endoscopy Video Analysis via Large-Scale Self-supervised Pre-train. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_10)[[Code]](https://github.com/med-air/Endo-FM) 
+
 - [[paper]]() [[Code]]()
 - [[paper]]() [[Code]]()
 - [[paper]]() [[Code]]()
@@ -66,14 +72,19 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - [[paper]]() [[Code]]()
 
 **2022**
-- [[paper]]() [[Code]]()
-- [[paper]]() [[Code]]()
+- Self Supervised Contrastive Learning for Digital Histopathology. [[paper]](https://www.sciencedirect.com/science/article/pii/S2666827021000992) [[Code]](https://github.com/ozanciga/self-supervised-histopathology)
+- Transformer-Based Unsupervised Contrastive Learning for Histopathological Image Classification. [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841522002043) [[Code]](https://github.com/Xiyue-Wang/TransPath)
+- Self-supervised Learning from 100 Million Medical Images. [[paper]](https://arxiv.org/pdf/2201.01283.pdf) 
 - [[paper]]() [[Code]]()
 - [[paper]]() [[Code]]()
 **2021**
 - Models Genesis. [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841520302048) [[Code]](https://github.com/MrGiovanni/ModelsGenesis)
+- MoCo Pretraining Improves Representation and Transferability of Chest X-ray Models. [[paper]](https://proceedings.mlr.press/v143/sowrirajan21a.html)
+- [[paper]]() [[Code]]()
+- [[paper]]() [[Code]]()
 - [[paper]]() [[Code]]()
 **2020**
+- Comparing to Learn: Surpassing ImageNet Pretraining on Radiographs by Comparing Image Representations. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_39) [[Code]](https://github.com/funnyzhou/C2L_MICCAI2020)
 - [[paper]]() [[Code]]()
 **2019**
 - Med3D: Transfer Learning for 3D Medical Image Analysis. [[paper]](https://arxiv.org/pdf/1904.00625.pdf) [[Code]](https://github.com/Tencent/MedicalNet)  
