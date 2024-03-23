@@ -36,16 +36,21 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 
 **2019**
 ## VFM methods
+## VFM methods
+
 **2024**
+
 - USFM: A Universal Ultrasound Foundation Model Generalized to Tasks and Organs towards Label Efficient Image Analysis. [[paper]](https://arxiv.org/html/2401.00153v2) [[Code]]()
 - LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching.[[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/58cc11cda2a2679e8af5c6317aed0af8-Paper-Conference.pdf) [[Code]](https://github.com/duyhominhnguyen/LVM-Med)
 - VoCo: A Simple-yet-Effective Volume Contrastive Learning Framework for 3D Medical Image Analysis. [[paper]](https://arxiv.org/html/2402.17300v1)[[Code]](https://github.com/Luffy03/VoCo)
+- Towards a General-purpose Foundation Model for Computational Pathology. [[paper]](https://www.nature.com/articles/s41591-024-02857-3) [[Code]](https://github.com/mahmoodlab/UNI)
 - [[paper]]() [[Code]]()
 - [[paper]]() [[Code]]()
 - [[paper]]() [[Code]]()
 - [[paper]]() [[Code]]()
-- [[paper]]() [[Code]]()
+- 
 **2023**
+  
 - STU-Net: Scalable and Transferable Medical Image Segmentation Models Empowered by Large-Scale Supervised Pre-training. [[paper]](https://arxiv.org/pdf/2304.06716.pdf) [[Code]](https://github.com/openmedlab/MIS-FM)
 - STU-Net: Scalable and Transferable Medical Image Segmentation Models Empowered by Large-Scale Supervised Pre-training. [[paper]](https://arxiv.org/pdf/2304.06716.pdf) [[Code]](https://github.com/Ziyan-Huang/STU-Net)
 - Segvol: Universal and interactive volumetric medical image segmentation. [[paper]](https://arxiv.org/pdf/2311.13385.pdf) [[Code]](https://github.com/BAAI-DCAI/SegVol)
@@ -56,7 +61,6 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - Models Genesis: Generic Autodidactic Models for 3D Medical Image Analysis. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7405596/) [[Code]](https://github.com/MrGiovanni/ModelsGenesis)
 - Deblurring Masked Autoencoder is Better Recipe for Ultrasound Image Recognition. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_34) [[Code]](https://github.com/MembrAI/DeblurringMIM)
 - Foundation Model for Endoscopy Video Analysis via Large-Scale Self-supervised Pre-train. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-43996-4_10)[[Code]](https://github.com/med-air/Endo-FM) 
-
 - [[paper]]() [[Code]]()
 - [[paper]]() [[Code]]()
 - [[paper]]() [[Code]]()
