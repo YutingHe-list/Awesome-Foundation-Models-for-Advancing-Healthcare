@@ -136,6 +136,8 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 
 # Lectures and Tutorials
 
+[Bioinformatics - Geneformer Tutorial (unofficial)](https://wang-lab.hkust.edu.hk/others/Tutorials/geneformer/readme.html)
+
 # Other Resources
 
 
