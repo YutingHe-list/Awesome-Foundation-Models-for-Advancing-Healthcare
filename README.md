@@ -22,7 +22,6 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 
 # Related Survey
 
-
 # Methods
 ## LFM methods in healthcare
 
@@ -171,6 +170,40 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 
 # Datasets
 ## LFM data
+|                           Dataset  Name                               | Text Types  |            Scale           |    Task    |                       Link                             |
+| :-------------------------------------------------------------------: | :-------: | :------------------------: | :--------: | :----------------------------------------------------: |
+|[PubMed](https://pubmed.ncbi.nlm.nih.gov/download/) | Literature | 18B tokens |  Language modeling |[*](https://pubmed.ncbi.nlm.nih.gov/download/)|
+|[MedC-I](https://arxiv.org/abs/2304.14454)| Literature | 79.2B tokens |  Dialogue |[*](https://huggingface.co/datasets/axiong/pmc_llama_instructions)|
+|[Guidelines](https://arxiv.org/abs/2311.16079)| Literature | 47K instances |  Language modeling |[*](https://huggingface.co/datasets/epfl-llm/guidelines)|
+|[PMC-Patients](https://www.nature.com/articles/s41597-023-02814-8) | Literature | 167K instances |  Information retrieval |[*](https://github.com/pmc-patients/pmc-patients)|
+|[MIMIC-III](https://www.nature.com/articles/sdata201635) | Health records | 122K instances |  Language modeling |[*](https://physionet.org/content/mimiciii/1.4/)|
+|[MIMIC-IV](https://www.nature.com/articles/s41597-022-01899-x)| Health record | 299K instances |  Language modeling |[*](https://physionet.org/content/mimiciv/2.2/)|
+|[eICU-CRDv2.0](https://www.nature.com/articles/sdata2018178)| Health record |  200K instances  |  Language modeling |[*](https://physionet.org/content/eicu-crd/2.0/)|
+|[EHRs](https://www.nature.com/articles/s41746-022-00742-2)| Health record | 82B tokens |  Named entity recognition, Relation extraction, Semantic textual similarity, Natural language inference, Dialogue | - |
+|[MD-HER](https://arxiv.org/abs/2306.09968)| Health record | 96K instances	 |  Dialogue, Question answering | - |
+|[IMCS-21](https://academic.oup.com/bioinformatics/article/39/1/btac817/6947983)| Dialogue | 4K instances |  Dialogue |[*](https://github.com/lemuria-wchen/imcs21)|
+|[Huatuo-26M](https://arxiv.org/abs/2305.01526)| Dialogue | 26M instances |  Question answering |[*](https://github.com/FreedomIntelligence/Huatuo-26M)|
+|[MedInstruct-52k](https://arxiv.org/abs/2310.14558)| Dialogue | 52K instances |  Dialogue |[*](https://github.com/XZhang97666/AlpaCare)|
+|[MASH-QA](https://aclanthology.org/2020.findings-emnlp.342/)| Dialogue | 35K instances |  Dialogue |[*](https://github.com/mingzhu0527/MASHQA)|
+|[MedQuAD](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-3119-4)| Dialogue | 47K instances |  Dialogue |[*](https://github.com/abachaa/MedQuAD)|
+|[MedDG](https://aclanthology.org/2020.emnlp-main.743/)| Dialogue | 17K instances |  Dialogue |[*](https://github.com/lwgkzl/MedDG)|
+|[CMExam](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a48ad12d588c597f4725a8b84af647b5-Abstract-Datasets_and_Benchmarks.html)| Dialogue | 68K instances |  Dialogue |[*](https://github.com/williamliujl/CMExam)|
+|[cMedQA2](https://ieeexplore.ieee.org/document/8548603/)| Dialogue | 108K instances |  Dialogue |[*](https://github.com/zhangsheng93/cMedQA2)|
+|[CMtMedQA](https://ojs.aaai.org/index.php/AAAI/article/view/29907)| Dialogue | 70K instances |  Dialogue |[*](https://github.com/SupritYoung/Zhongjing)|
+|[CliCR](https://aclanthology.org/N18-1140/)| Dialogue | 100K instances |  Dialogue |[*](https://github.com/clips/clicr)|
+|[webMedQA](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0761-8)| Dialogue | 63K instances |  Dialogue |[*](https://github.com/hejunqing/webMedQA)|
+|[ChiMed](https://arxiv.org/abs/2310.09089)| Dialogue | 1.59B tokens |  Dialogue |[*](https://huggingface.co/datasets/williamliu/ChiMed/tree/main)|
+|[MedDialog](https://aclanthology.org/2020.emnlp-main.743/)| Dialogue | 20K instances |  Dialogue |[*](https://github.com/UCSD-AI4H/Medical-Dialogue-System)|
+|[CMD](https://github.com/Toyhom/Chinese-medical-dialogue-data)| Dialogue | 882K instances |  Dialogue |[*](https://github.com/Toyhom/Chinese-medical-dialogue-data)|
+|[BianqueCorpus](https://arxiv.org/abs/2310.15896)| Dialogue | 2.4M instances |  Dialogue |[*](https://github.com/scutcyr/BianQue)|
+|[MedQA](https://www.mdpi.com/2076-3417/11/14/6421)| Dialogue | 4K instances |  Dialogue |[*](https://github.com/jind11/MedQA)|
+|[HealthcareMagic](https://huggingface.co/datasets/RafaelMPereira/HealthCareMagic-100k-Chat-Format-en)| Dialogue | 100K instances |  Dialogue |[*](https://huggingface.co/datasets/RafaelMPereira/HealthCareMagic-100k-Chat-Format-en)|
+|[iCliniq](https://drive.google.com/file/d/1ZKbqgYqWc7DJHs3N9TQYQVPdDQmZaClA/view)| Dialogue | 10K instances |  Dialogue |[*](https://drive.google.com/file/d/1ZKbqgYqWc7DJHs3N9TQYQVPdDQmZaClA/view)|
+|[CMeKG-8K](https://www.mdpi.com/2078-2489/11/4/186)| Dialogue | 8K instances |  Dialogue |[*](https://github.com/WENGSYX/CMKG)|
+|[Hybrid SFT](https://aclanthology.org/2023.findings-emnlp.725/)| Dialogue | 226K instances |  Dialogue |[*](https://github.com/FreedomIntelligence/HuatuoGPT)|
+|[VariousMedQA](https://github.com/cambridgeltl/visual-med-alpaca)| Dialogue | 54K instances |  Dialogue |[*](https://github.com/cambridgeltl/visual-med-alpaca)|
+|[Medical Meadow](https://arxiv.org/abs/2304.08247)| Dialogue | 160K instances |  Dialogue |[*](https://github.com/kbressem/medAlpaca)|
+|[MultiMedQA](https://arxiv.org/abs/2305.09617)| Dialogue | 193K instances |  Dialogue | - |
 
 ## VFM data
 |                           Dataset  Name                               | Modality  |            Scale           |    Task    |                       Link                             |
