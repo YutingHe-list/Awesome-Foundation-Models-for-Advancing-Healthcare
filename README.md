@@ -187,6 +187,10 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - [JMLR] Contrastive learning of medical visual representations from paired images and text. [[Paper]](https://proceedings.mlr.press/v182/zhang22a/zhang22a.pdf) [[Code]](https://github.com/edreisMD/ConVIRT-pytorch)
 - [ECCV] Joint learning of localized representations from medical images and reports. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-19809-0_39)
 - [NeurIPS] Multi-granularity cross-modal alignment for generalized medical visual representation learning. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/d925bda407ada0df3190df323a212661-Paper-Conference.pdf) [[Code]](https://github.com/HKU-MedAI/MGCA)
+- [AAAI] Clinical-BERT: Vision-Language Pre-training for Radiograph Diagnosis and Reports Generation.  [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20204)
+- [MICCAI] Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training. [[Paper]](https://arxiv.org/abs/2209.07098) [[Code]](https://github.com/zhjohnchan/M3AE)
+- [JBHI] Multi-modal understanding and generation for medical images and text via vision-language pre-training. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9894658) [[Code]](https://github.com/SuperSupermoon/MedViLLV)
+- [ACM MM] Align, reason and learn: Enhancing medical vision-and-language pre-training with knowledge. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3503161.3547948) [[Code]]
 
 
 **2021**
