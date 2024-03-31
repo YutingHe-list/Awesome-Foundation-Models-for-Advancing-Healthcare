@@ -205,6 +205,8 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - [MLMIW] Multi-modal adapter for medical vision-and-language learning. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-45673-2_39)
 - [arXiv] Text-guided Foundation Model Adaptation for Pathological Image Classification. [[Paper]](https://arxiv.org/abs/2307.14901) [[Code]](https://github.com/openmedlab/CITE)
 - [arXiv] XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models. [[Paper]](https://arxiv.org/abs/2306.07971) [[Code]](https://github.com/mbzuai-oryx/XrayGPT)
+- [MICCAI] Xplainer: From X-Ray Observations to Explainable Zero-Shot Diagnosis. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_41) [[Code]](https://github.com/ChantalMP/Xplainer)
+- [MICCAI] Multiple prompt fusion for zero-shot lesion detection using vision-language models. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_28)
 
 **2022**
 - [JMLR] Contrastive learning of medical visual representations from paired images and text. [[Paper]](https://proceedings.mlr.press/v182/zhang22a/zhang22a.pdf) [[Code]](https://github.com/edreisMD/ConVIRT-pytorch)
@@ -218,6 +220,7 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - [Nature Biomedical Engineering] Expert-level detection of pathologies from unannotated chest x-ray images via self-supervised learning. [[Paper]](https://www.nature.com/articles/s41551-022-00936-9) [[Code]](https://github.com/rajpurkarlab/CheXzero)
 - [arXiv] RoentGen: Vision-Language Foundation Model for Chest X-ray Generation. [[Paper]](https://arxiv.org/abs/2211.12737)
 - [arXiv] Adapting pretrained vision-language foundational models to medical imaging domains. [[Paper]](https://arxiv.org/abs/2210.04133)
+- [arXiv] Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study. [[Paper]](https://arxiv.org/abs/2209.15517)
 
 
 **2021**
