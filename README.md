@@ -315,6 +315,8 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 |                           Dataset  Name                               | Modalities  |            Scale           |    Task    |                       Link                             |
 | :-------------------------------------------------------------------: | :-------: | :------------------------: | :--------: | :----------------------------------------------------: |
 |[MIMIC-CXR](https://www.nature.com/articles/s41597-019-0322-0) | X-ray images, Medical report | 377K images, 227K texts |  Vision-Language Learning |[*](https://physionet.org/content/mimic-cxr/2.0.0/)|
+|[PadChest](https://www.sciencedirect.com/science/article/pii/S1361841520301614) | X-ray images, Medical report | 160K images, 109K texts |  Vision-Language Learning |[*](http://bimcv.cipf.es/bimcv-projects/padchest/)|
+|[CheXpert](https://ojs.aaai.org/index.php/AAAI/article/view/3834) | X-ray images, Medical report | 224K images, 224K texts |  Vision-Language Learning |[*](https://stanfordmlgroup.github.io/competitions/chexpert)|
 # Lectures and Tutorials
 
 [Bioinformatics - Geneformer Tutorial (unofficial)](https://wang-lab.hkust.edu.hk/others/Tutorials/geneformer/readme.html)
