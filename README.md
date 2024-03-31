@@ -312,7 +312,9 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 
 
 ## MFM data
-
+|                           Dataset  Name                               | Modalities  |            Scale           |    Task    |                       Link                             |
+| :-------------------------------------------------------------------: | :-------: | :------------------------: | :--------: | :----------------------------------------------------: |
+|[MIMIC-CXR](https://www.nature.com/articles/s41597-019-0322-0) | X-ray images, Medical report | 377K images, 227K texts |  Vision-Language Learning |[*](https://physionet.org/content/mimic-cxr/2.0.0/)|
 # Lectures and Tutorials
 
 [Bioinformatics - Geneformer Tutorial (unofficial)](https://wang-lab.hkust.edu.hk/others/Tutorials/geneformer/readme.html)
