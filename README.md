@@ -181,6 +181,9 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - [Nature Machine Intelligence] Multi-modal molecule structure–text model for text-based retrieval and editing. [[Paper]](https://www.nature.com/articles/s42256-023-00759-6) [[Code]](https://github.com/chao1224/MoleculeSTM/tree/main)
 - [MICCAI] Clip-lung: Textual knowledge-guided lung nodule malignancy prediction. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-43990-2_38)
 - [MICCAI] Breaking with fixed set pathology recognition through report-guided contrastive training. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-16443-9_66)
+- [MICCAI] Pmc-clip: Contrastive language-image pre-training using biomedical documents. [[Paper]](https://arxiv.org/pdf/2303.07240.pdf) [[Code]](https://github.com/WeixiongLin/PMC-CLIP)
+- [arXiv] Enhancing representation in radiography-reports foundation model: A granular alignment algorithm using masked contrastive learning. [[Paper]](https://arxiv.org/abs/2309.05904) [[Code]](https://github.com/SZUHvern/MaCo)
+- [ICCV] Prior: Prototype representation joint learning from  medical images and reports. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Cheng_PRIOR_Prototype_Representation_Joint_Learning_from_Medical_Images_and_Reports_ICCV_2023_paper.html) [[Code]](https://github.com/QtacierP/PRIOR)
 
 
 **2022**
@@ -190,7 +193,8 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - [AAAI] Clinical-BERT: Vision-Language Pre-training for Radiograph Diagnosis and Reports Generation.  [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20204)
 - [MICCAI] Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training. [[Paper]](https://arxiv.org/abs/2209.07098) [[Code]](https://github.com/zhjohnchan/M3AE)
 - [JBHI] Multi-modal understanding and generation for medical images and text via vision-language pre-training. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9894658) [[Code]](https://github.com/SuperSupermoon/MedViLLV)
-- [ACM MM] Align, reason and learn: Enhancing medical vision-and-language pre-training with knowledge. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3503161.3547948) [[Code]]
+- [ACM MM] Align, reason and learn: Enhancing medical vision-and-language pre-training with knowledge. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3503161.3547948) [[Code]](https://github.com/zhjohnchan/ARL)
+- [ECCV] Making the Most of Text Semantics to Improve Biomedical Vision–Language Processing. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-20059-5_1)
 
 
 **2021**
