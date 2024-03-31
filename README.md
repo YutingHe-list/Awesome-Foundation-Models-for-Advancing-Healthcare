@@ -165,6 +165,7 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - [ICASSP] Etp: Learning transferable ecg representations via ecg-text pretraining. [[Paper]](https://ieeexplore.ieee.org/document/10446742)
 - [NeurIPS] Med-unic: Unifying cross-lingual medical vision language pre-training by diminishing bias. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/af38fb8e90d586f209235c94119ba193-Paper-Conference.pdf) [[Code]](https://github.com/SUSTechBruce/Med-UniC)
 - [NeurIPS] Quilt-1m: One million image-text pairs for histopathology. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/775ec578876fa6812c062644964b9870-Paper-Datasets_and_Benchmarks.pdf) [[Code]](https://github.com/wisdomikezogwo/quilt1m)
+- [Nature Medicine] A visual-language foundation model for computational pathology. [[Paper]](https://www.nature.com/articles/s41591-024-02856-4) 
 
 
 **2023**
@@ -186,6 +187,11 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - [MICCAI] Pmc-clip: Contrastive language-image pre-training using biomedical documents. [[Paper]](https://arxiv.org/pdf/2303.07240.pdf) [[Code]](https://github.com/WeixiongLin/PMC-CLIP)
 - [arXiv] Enhancing representation in radiography-reports foundation model: A granular alignment algorithm using masked contrastive learning. [[Paper]](https://arxiv.org/abs/2309.05904) [[Code]](https://github.com/SZUHvern/MaCo)
 - [ICCV] Prior: Prototype representation joint learning from  medical images and reports. [[Paper]](https://openaccess.thecvf.com/content/ICCV2023/html/Cheng_PRIOR_Prototype_Representation_Joint_Learning_from_Medical_Images_and_Reports_ICCV_2023_paper.html) [[Code]](https://github.com/QtacierP/PRIOR)
+- [MICCAI] Masked Vision and Language Pre-training with Unimodal and Multimodal Contrastive Losses for Medical Visual Question Answering. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_36) [[Code]](https://github.com/pengfeiliHEU/MUMC)
+- [arXiv] T3d: Towards 3d medical image understanding through vision-language pre-training. [[Paper]](https://arxiv.org/abs/2312.01529)
+- [MICCAI] Gene-induced multimodal pre-training for imageomic classification. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_49) [[Code]](https://github.com/DeepMed-Lab-ECNU/GIMP)
+- [arXiv] A text-guided protein design framework. [[Paper]](https://arxiv.org/abs/2302.04611)
+- 
 
 
 **2022**
@@ -202,6 +208,7 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 **2021**
 - [arXiv] MMBERT: Multimodal BERT Pretraining for Improved Medical VQA. [[Paper]](https://arxiv.org/abs/2104.01394) [[Code]](https://github.com/VirajBagal/MMBERT)
 - [ICCV] GLoRIA: A Multimodal Global-Local Representation Learning Framework for Label-Efficient Medical Image Recognition. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Huang_GLoRIA_A_Multimodal_Global-Local_Representation_Learning_Framework_for_Label-Efficient_Medical_ICCV_2021_paper.html) [[Code]](https://github.com/marshuang80/gloria)
+
 
 
 
