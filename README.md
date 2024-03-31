@@ -173,6 +173,9 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - [EACL] PubMedCLIP: How Much Does CLIP Benefit Visual Question Answering in the Medical Domain. [[Paper]](https://aclanthology.org/2023.findings-eacl.88.pdf) [[Code]](https://github.com/sarahESL/PubMedCLIP)
 - [MICCAI] M-FLAG: Medical Vision-Language Pre-training with Frozen Language Models and Latent Space Geometry Optimization. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_61) [[Code]](https://github.com/cheliu-computation/M-FLAG-MICCAI2023)
 - [arXiv] IMITATE: Clinical Prior Guided Hierarchical Vision-Language Pre-training. [[Paper]](https://arxiv.org/abs/2310.07355)
+- [arXiv] CXR-CLIP: Toward Large Scale Chest X-ray Language-Image Pre-training. [[Paper]](https://arxiv.org/abs/2310.13292) [[Code]](https://github.com/kakaobrain/cxr-clip)
+- [BIBM] UMCL: Unified Medical Image-Text-Label Contrastive Learning With Continuous Prompt. [[Paper]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10386034)
+- [Nature Communications] Knowledge-enhanced visual-language pre-training on chest radiology images. [[Paper]](https://www.nature.com/articles/s41467-023-40260-7)
 
 
 
