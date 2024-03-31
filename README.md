@@ -314,9 +314,17 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 ## MFM data
 |                           Dataset  Name                               | Modalities  |            Scale           |    Task    |                       Link                             |
 | :-------------------------------------------------------------------: | :-------: | :------------------------: | :--------: | :----------------------------------------------------: |
-|[MIMIC-CXR](https://www.nature.com/articles/s41597-019-0322-0) | X-ray images, Medical report | 377K images, 227K texts |  Vision-Language Learning |[*](https://physionet.org/content/mimic-cxr/2.0.0/)|
-|[PadChest](https://www.sciencedirect.com/science/article/pii/S1361841520301614) | X-ray images, Medical report | 160K images, 109K texts |  Vision-Language Learning |[*](http://bimcv.cipf.es/bimcv-projects/padchest/)|
-|[CheXpert](https://ojs.aaai.org/index.php/AAAI/article/view/3834) | X-ray images, Medical report | 224K images, 224K texts |  Vision-Language Learning |[*](https://stanfordmlgroup.github.io/competitions/chexpert)|
+|[MIMIC-CXR](https://www.nature.com/articles/s41597-019-0322-0) | X-ray, Medical report | 377K images, 227K texts |  Vision-Language Learning |[*](https://physionet.org/content/mimic-cxr/2.0.0/)|
+|[PadChest](https://www.sciencedirect.com/science/article/pii/S1361841520301614) | X-ray, Medical report | 160K images, 109K texts |  Vision-Language Learning |[*](http://bimcv.cipf.es/bimcv-projects/padchest/)|
+|[CheXpert](https://ojs.aaai.org/index.php/AAAI/article/view/3834) | X-ray, Medical report | 224K images, 224K texts |  Vision-Language Learning |[*](https://stanfordmlgroup.github.io/competitions/chexpert)|
+|[ImageCLEF2018](https://repository.essex.ac.uk/22744/1/invited_paper_4.pdf) | Multimodal, Captions | 232K images, 232K texts |  Image captioning |[*](https://www.imageclef.org/2018/caption)|
+|[OpenPath](https://www.nature.com/articles/s41591-023-02504-3) |Pathology, Tweets | 208K images, 208K texts |  Vision-Language learning |[*](https://huggingface.co/spaces/vinid/webplip)|
+|[PathVQA](https://arxiv.org/pdf/2003.10286.pdf) |Pathology, QA | 4K images, 32K QA pairs |  VQA |[*](https://github.com/UCSD-AI4H/PathVQA)|
+|[Quilt-1M](https://proceedings.neurips.cc/paper_files/paper/2023/file/775ec578876fa6812c062644964b9870-Paper-Datasets_and_Benchmarks.pdf) |Pathology Images, Mixed-source text | 1M images, 1M texts |   Vision-Language learning |[*](https://quilt1m.github.io/)|
+|[PatchGastricADC22](https://proceedings.mlr.press/v172/tsuneki22a/tsuneki22a.pdf) | Pathology, Captions | 991 WSIs, 991 texts  |   Image captioning |[*](https://github.com/masatsuneki/histopathology-image-caption)|
+|[PTB-XL](https://www.nature.com/articles/s41597-020-0495-6.) |  ECG, Medical report  | 21K records, 21K texts  |   Vision-Language learning |[*](https://physionet.org/content/ptb-xl/1.0.1/)|
+|[ROCO](https://link.springer.com/chapter/10.1007/978-3-030-01364-6_20) | Multimodal, Captions  | 87K images, 87K texts  |   Vision-Language learning |[*](https://github.com/razorx89/roco-dataset)|
+|[MedICaT](https://arxiv.org/abs/2010.06000) | Multimodal, Captions  | 217K images, 217K texts  |   Vision-Language learning |[*](https://github.com/allenai/medicat)|
 # Lectures and Tutorials
 
 [Bioinformatics - Geneformer Tutorial (unofficial)](https://wang-lab.hkust.edu.hk/others/Tutorials/geneformer/readme.html)
