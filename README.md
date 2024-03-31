@@ -165,7 +165,10 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - [ICASSP] Etp: Learning transferable ecg representations via ecg-text pretraining. [[Paper]](https://ieeexplore.ieee.org/document/10446742)
 - [NeurIPS] Med-unic: Unifying cross-lingual medical vision language pre-training by diminishing bias. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/af38fb8e90d586f209235c94119ba193-Paper-Conference.pdf) [[Code]](https://github.com/SUSTechBruce/Med-UniC)
 - [NeurIPS] Quilt-1m: One million image-text pairs for histopathology. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/775ec578876fa6812c062644964b9870-Paper-Datasets_and_Benchmarks.pdf) [[Code]](https://github.com/wisdomikezogwo/quilt1m)
-- [Nature Medicine] A visual-language foundation model for computational pathology. [[Paper]](https://www.nature.com/articles/s41591-024-02856-4) 
+- [Nature Medicine] A visual-language foundation model for computational pathology. [[Paper]](https://www.nature.com/articles/s41591-024-02856-4)
+- [NeurIPS] LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/5abcdf8ecdcacba028c6662789194572-Paper-Datasets_and_Benchmarks.pdf) [[Code]](https://github.com/microsoft/LLaVA-Med)
+- [AAAI] PathAsst: Generative Foundation AI Assistant for Pathology. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28308) [[Code]](https://github.com/bioinfomagic/Generative-Foundation-AI-Assistant-for-Pathology/tree/main)
+- [WACV] I-AI: A Controllable & Interpretable AI System for Decoding Radiologists’ Intense Focus for Accurate CXR Diagnoses. [[Paper]](https://arxiv.org/abs/2309.13550) [[Code]](https://github.com/UARK-AICV/IAI)
 
 
 **2023**
@@ -191,8 +194,17 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - [arXiv] T3d: Towards 3d medical image understanding through vision-language pre-training. [[Paper]](https://arxiv.org/abs/2312.01529)
 - [MICCAI] Gene-induced multimodal pre-training for imageomic classification. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_49) [[Code]](https://github.com/DeepMed-Lab-ECNU/GIMP)
 - [arXiv] A text-guided protein design framework. [[Paper]](https://arxiv.org/abs/2302.04611)
-- 
-
+- [Nature Medicine] A visual--language foundation model for pathology image analysis using medical Twitter. [[Paper]](https://www.nature.com/articles/s41591-023-02504-3) [[Code]](https://github.com/PathologyFoundation/plip)
+- [arXiv] Towards generalist biomedical ai. [[Paper]](https://arxiv.org/pdf/2307.14334) [[Code]](https://github.com/kyegomez/Med-PaLM)
+- [ML4H] Med-Flamingo: A Multimodal Medical Few-shot Learner. [[Paper]](https://proceedings.mlr.press/v225/moor23a.html) [[Code]](https://github.com/snap-stanford/med-flamingo)
+- [MLMIW] Exploring the Transfer Learning Capabilities of CLIP on Domain Generalization for Diabetic Retinopathy. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-45673-2_44) [[Code]](https://github.com/Sanoojan/CLIP-DRDG)
+- [MICCAI] Open-ended medical visual question answering through prefix tuning of language models. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-43904-9_70) [[Code]](https://github.com/tjvsonsbeek/open-ended-medical-vqa)
+- [arXiv] Qilin-Med-VL: Towards Chinese Large Vision-Language Model for General Healthcare. [[Paper]](https://arxiv.org/abs/2310.17956) [[Code]](https://github.com/williamliujl/Qilin-Med-VL)
+- [arXiv] A Foundational Multimodal Vision Language AI Assistant for Human Pathology. [[Paper]](https://arxiv.org/pdf/2312.07814.pdf)
+- [arXiv] Effectively fine-tune to improve large multimodal models for radiology report generation. [[Paper]](https://arxiv.org/pdf/2312.01504.pdf)
+- [MLMIW] Multi-modal adapter for medical vision-and-language learning. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-45673-2_39)
+- [arXiv] Text-guided Foundation Model Adaptation for Pathological Image Classification. [[Paper]](https://arxiv.org/abs/2307.14901) [[Code]](https://github.com/openmedlab/CITE)
+- [arXiv] XrayGPT: Chest Radiographs Summarization using Medical Vision-Language Models. [[Paper]](https://arxiv.org/abs/2306.07971) [[Code]](https://github.com/mbzuai-oryx/XrayGPT)
 
 **2022**
 - [JMLR] Contrastive learning of medical visual representations from paired images and text. [[Paper]](https://proceedings.mlr.press/v182/zhang22a/zhang22a.pdf) [[Code]](https://github.com/edreisMD/ConVIRT-pytorch)
@@ -203,6 +215,9 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - [JBHI] Multi-modal understanding and generation for medical images and text via vision-language pre-training. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9894658) [[Code]](https://github.com/SuperSupermoon/MedViLLV)
 - [ACM MM] Align, reason and learn: Enhancing medical vision-and-language pre-training with knowledge. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3503161.3547948) [[Code]](https://github.com/zhjohnchan/ARL)
 - [ECCV] Making the Most of Text Semantics to Improve Biomedical Vision–Language Processing. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-20059-5_1)
+- [Nature Biomedical Engineering] Expert-level detection of pathologies from unannotated chest x-ray images via self-supervised learning. [[Paper]](https://www.nature.com/articles/s41551-022-00936-9) [[Code]](https://github.com/rajpurkarlab/CheXzero)
+- [arXiv] RoentGen: Vision-Language Foundation Model for Chest X-ray Generation. [[Paper]](https://arxiv.org/abs/2211.12737)
+- [arXiv] Adapting pretrained vision-language foundational models to medical imaging domains. [[Paper]](https://arxiv.org/abs/2210.04133)
 
 
 **2021**
