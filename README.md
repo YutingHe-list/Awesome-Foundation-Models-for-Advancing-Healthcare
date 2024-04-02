@@ -105,11 +105,12 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 ## VFM methods
 ## VFM methods
 
+
 **2024**
 
 - [arXiv] USFM: A Universal Ultrasound Foundation Model Generalized to Tasks and Organs towards Label Efficient Image Analysis. [[paper]](https://arxiv.org/html/2401.00153v2) 
 - [CVPR] VoCo: A Simple-yet-Effective Volume Contrastive Learning Framework for 3D Medical Image Analysis. [[paper]](https://arxiv.org/html/2402.17300v1)[[Code]](https://github.com/Luffy03/VoCo)
--  [NeurIPS] LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching. [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/58cc11cda2a2679e8af5c6317aed0af8-Paper-Conference.pdf) [[Code]](https://github.com/duyhominhnguyen/LVM-Med)
+- [NeurIPS] LVM-Med: Learning Large-Scale Self-Supervised Vision Models for Medical Imaging via Second-order Graph Matching. [[paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/58cc11cda2a2679e8af5c6317aed0af8-Paper-Conference.pdf) [[Code]](https://github.com/duyhominhnguyen/LVM-Med) 
 - [Nature Medicine] Towards a General-purpose Foundation Model for Computational Pathology. [[paper]](https://www.nature.com/articles/s41591-024-02857-3) [[Code]](https://github.com/mahmoodlab/UNI)
 - [arXiv] RudolfV: A Foundation Model by Pathologists for Pathologists. [[paper]](https://arxiv.org/pdf/2401.04079) [[Code]]()
 - [Nature Communications] Segment anything in medical images. [[paper]](https://www.nature.com/articles/s41467-024-44824-z) [[Code]](https://github.com/bowang-lab/MedSAM)
@@ -180,6 +181,7 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 **2021**
 - [Medical Image Analysis] Models Genesis. [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841520302048) [[Code]](https://github.com/MrGiovanni/ModelsGenesis)
 - [Medical Imaging with Deep Learning] MoCo Pretraining Improves Representation and Transferability of Chest X-ray Models. [[paper]](https://proceedings.mlr.press/v143/sowrirajan21a.html)
+- [IEEE transactions on medical imaging] Transferable visual words: Exploiting the semantics of anatomical patterns for self-supervised learning.[[Paper]](https://ieeexplore.ieee.org/iel7/42/4359023/09359803.pdf)
 
 **2020**
 - [MICCAI] Comparing to Learn: Surpassing ImageNet Pretraining on Radiographs by Comparing Image Representations. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_39) [[Code]](https://github.com/funnyzhou/C2L_MICCAI2020)
