@@ -50,7 +50,8 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - [WACV] AFTer-SAM: Adapting SAM With Axial Fusion Transformer for Medical Imaging Segmentation. [[paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Yan_AFTer-SAM_Adapting_SAM_With_Axial_Fusion_Transformer_for_Medical_Imaging_WACV_2024_paper.pdf)
 - [MIDL] Adaptivesam: Towards efficient tuning of sam for surgical scene segmentation. [[paper]](https://arxiv.org/pdf/2308.03726) [[Code]](https://github.com/JayParanjape/biastuning) 
 - [arXiv] SegmentAnyBone: A Universal Model that Segments Any Bone at Any Location on MRI [[paper]](https://arxiv.org/html/2401.12974v1) [[Code]](https://github.com/mazurowski-lab/SegmentAnyBone)
-- [SSRN] Swinsam: Fine-Grained Polyp Segmentation in Colonoscopy Images Via Segment Anything Model Integrated with a Swin Transformer Decoder. [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4673046) 
+- [SSRN] Swinsam: Fine-Grained Polyp Segmentation in Colonoscopy Images Via Segment Anything Model Integrated with a Swin Transformer Decoder. [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4673046)
+- [AAAI] Surgicalsam: Efficient class promptable surgical instrument segmentation [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/28514/29002) [[Code]](https://github.com/wenxi-yue/SurgicalSAM)
 - [arXiv] [[paper]]() [[Code]]()
 - [arXiv] [[paper]]() [[Code]]()
 - [arXiv] [[paper]]() [[Code]]()
@@ -94,9 +95,9 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - [arXiv] DeSAM: Decoupling Segment Anything Model for Generalizable Medical Image Segmentation [[paper]](https://arxiv.org/pdf/2306.00499) [[Code]](https://github.com/yifangao112/DeSAM)
 - [bioRxiv] A Foundation Model for Cell Segmentation.[[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10690226/) [[Code]](https://label-dev.deepcell.org/)
 - [MICCAI] SAM-U: Multi-box prompts triggered uncertainty estimation for reliable SAM in medical image. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-47425-5_33)
-- [arXiv] [[paper]]() [[Code]]()
-- [arXiv] [[paper]]() [[Code]]()
-- [arXiv] [[paper]]() [[Code]]()
+- [MICCAI] Sam-path: A segment anything model for semantic segmentation in digital pathology. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-47401-9_16) 
+- [arXiv] All-in-sam: from weak annotation to pixel-wise nuclei segmentation with prompt-based finetuning.[[paper]](https://arxiv.org/pdf/2307.00290) 
+
 - [arXiv] [[paper]]() [[Code]]()
 - [arXiv] [[paper]]() [[Code]]()
 
