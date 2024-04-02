@@ -359,39 +359,40 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 |[CholecT45](https://arxiv.org/pdf/2204.05235.pdf)| Endoscopy |  45 videos (90489 frames)  |  Segmentation, Detection |[*](https://github.com/CAMMA-public/cholect45)|
 |[DeepLesion](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-5/issue-3/036501/DeepLesion--automated-mining-of-large-scale-lesion-annotations-and/10.1117/1.JMI.5.3.036501.full)| CT slices (2D) | 32,735 images |  Segmentation, Registration |[*](nihcc.app.box.com)|
 |[LIDC-IDRI](https://aapm.onlinelibrary.wiley.com/doi/full/10.1118/1.3528204)| 3D CT	 | 1,018 volumes	 |  Segmentation |[*](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254)|
-|[  TotalSegmentator ]()| 3D CT	 | 1,228 volumes	 |  Segmentation |[*](https://pubs.rsna.org/doi/10.1148/ryai.230024)|
-|[AutoPET   ]()|3D CT, 3D PET |  1,214 PET-CT pairs	|  Segmentation |[*](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93258287)|
+|[  TotalSegmentator ]()| 3D CT	 | 1,204 volumes	 |  Segmentation |[*](https://doi.org/10.5281/zenodo.6802613)|
+|[  TotalSegmentatorv2 ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10546353/)| 3D CT	 | 1,228 volumes	 |  Segmentation |[*](https://doi.org/10.5281/zenodo.6802613)|
+|[AutoPET   ](https://www.nature.com/articles/s41597-022-01718-3)|3D CT, 3D PET |  1,214 PET-CT pairs	|  Segmentation |[*](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93258287)|
 |[  ULS ]()| 3D CT	 |  38,842 volumes	|  Segmentation |[*](https://uls23.grand-challenge.org/)|
-|[ FLARE 2022  ]()| 3D CT	 | 2,300 volumes	 |  Segmentation |[*](https://flare22.grand-challenge.org/Dataset/)|
+|[ FLARE 2022  ](https://arxiv.org/pdf/2308.05862)| 3D CT	 | 2,300 volumes	 |  Segmentation |[*](https://flare22.grand-challenge.org/Dataset/)|
 |[ FLARE 2023  ]()| 3D CT	 |  4,500 volumes	|  Segmentation |[*](https://codalab.lisn.upsaclay.fr/competitions/12239#learn_the_details-dataset)|
-|[ AbdomenCT-1K  ]()| 3D CT	 | 1,112 volumes	 |Segmentation |[*](https://github.com/JunMa11/AbdomenCT-1K)|
-|[  CTSpine1K ]()| 3D CT	 | 1,005 volumes	 |  Segmentation |[*](https://github.com/MIRACLE-Center/CTSpine1K)|
-|[  CTPelvic1K ]()| 3D CT	 | 1,184 volumes	 |  Segmentation |[*](https://zenodo.org/record/4588403#.YEyLq_0zaCo)|
-|[ MSD  ]()| 3D CT, 3D MRI	 | 1,411 CT, 1,222 MRI	 |  Segmentation |[*](http://medicaldecathlon.com/)|
-|[ BraTS21  ]()| 3D MRI  | 2,040 volumes	 |  Segmentation |[*](https://www.synapse.org/#!Synapse:syn51514105)|
-|[ BraTS2023-MEN  ]()| 3D MRI  |1,650 volumes	|  Segmentation |[*](https://www.synapse.org/#!Synapse:syn51514106)|
-|[ ADNI  ]()| 3D MRI	 | - |  Clinical study |[*](https://adni.loni.usc.edu/)|
-|[  PPMI ]()| 3D MRI	 | - |  Clinical study |[*](https://www.ppmi-info.org/)|
-|[ ATLAS v2.0 ]()| 3D MRI	 | 1,271 volumes	 |  Segmentation |[*](http://fcon_1000.projects.nitrc.org/indi/retro/atlas.html)|
-|[ PI-CAI   ]()| 3D MRI	 | 1,500 volumes	 |  Segmentation |[*](https://zenodo.org/records/6624726)|
-|[ MRNet   ]()| 3D MRI	 | 1,370 volumes	 |  Segmentation |[*](https://stanfordmlgroup.github.io/competitions/mrnet/)|
-|[  Retinal OCT-C8 ]()| 2D OCT	 | 24,000 volumes	 |  Classification |[*](https://www.kaggle.com/datasets/obulisainaren/retinal-oct-c8)|
-|[ Ultrasound Nerve Segmentation  ]()| US	 | 11,143 images	 |  Segmentation |[*](https://www.kaggle.com/c/ultrasound-nerve-segmentation/data)|
-|[ Fetal Planes  ]()| US	 |12,400 images		 |  Classification |[*](https://zenodo.org/records/3904280)|
-|[  EchoNet-LVH ]()| US	 | 12,000 videos |  Detection, Clinical study |[*](https://echonet.github.io/lvh/)|
-|[ EchoNet-Dynamic  ]()| US	 | 10,030 videos |  Function assessment |[*](https://echonet.github.io/dynamic/index.html)|
-|[ AIROGS  ]()| CFP	 |113,893 images	|  Classification |[*](https://airogs.grand-challenge.org/)|
-|[ ISIC 2020  ]()| Dermoscopy	 | 33,126 images	 |  Classification |[*](https://challenge2020.isic-archive.com/)|
-|[ LC25000  ]()| Pathology	 | 25,000 images	 |  Classification |[*](https://github.com/tampapath/lung_colon_image_set)|
-|[ DeepLIIF  ]()| Pathology	 | 1,667 WSIs	 |  Classification |[*](https://deepliif.org/)|
-|[ PAIP  ]()| Pathology	 | 2,457 WSIs	 |  Segmentation |[*](https://www.drivendata.org/competitions/67/competition-cervicalbiopsy/page/254/)|
-|[TissueNet]()| Pathology	 | 1,016 WSIs |  Classification |[*]()|
-|[NLST]()| 3D CT, Pathology	 | 26,254 CT, 451 WSIs |  Clinical  study |[*](https://www.cancerimagingarchive.net/collection/nlst/)|
-|[CRC]()| Pathology	 | 100k images	 |  Classification |[*](https://zenodo.org/records/1214456)|
-|[MURA]()| X-ray	 | 40,895 images |  Detection |[*](https://stanfordmlgroup.github.io/competitions/mura/)|
-|[ChestX-ray14]()| X-ray	 |  112,120 images|  Detection |[*](https://paperswithcode.com/dataset/chestx-ray14)|
-|[SNOW]()| Synthetic pathology	 |20K image tiles|  Segmentation |[*](https://zenodo.org/records/6633721#.YuE33OzMJhE)|
-|[TCGA]()| Multimodal images, Clinical data	 | - |  Clinical study |[*](https://portal.gdc.cancer.gov)|
+|[ AbdomenCT-1K  ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9497733)| 3D CT	 | 1,112 volumes	 |Segmentation |[*](https://github.com/JunMa11/AbdomenCT-1K)|
+|[  CTSpine1K ](https://arxiv.org/pdf/2105.14711)| 3D CT	 | 1,005 volumes	 |  Segmentation |[*](https://github.com/MIRACLE-Center/CTSpine1K)|
+|[  CTPelvic1K ](https://link.springer.com/article/10.1007/s11548-021-02363-8)| 3D CT	 | 1,184 volumes	 |  Segmentation |[*](https://zenodo.org/record/4588403#.YEyLq_0zaCo)|
+|[ MSD  ](https://www.nature.com/articles/s41467-022-30695-9)| 3D CT, 3D MRI	 | 1,411 CT, 1,222 MRI	 |  Segmentation |[*](http://medicaldecathlon.com/)|
+|[ BraTS21  ](https://www.nature.com/articles/sdata2017117)| 3D MRI  | 2,040 volumes	 |  Segmentation |[*](https://www.synapse.org/#!Synapse:syn51514105)|
+|[ BraTS2023-MEN  ](https://arxiv.org/pdf/2305.07642)| 3D MRI  |1,650 volumes	|  Segmentation |[*](https://www.synapse.org/#!Synapse:syn51514106)|
+|[ ADNI  ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2809036/)| 3D MRI	 | - |  Clinical study |[*](https://adni.loni.usc.edu/)|
+|[  PPMI ](https://www.sciencedirect.com/science/article/pii/S0301008211001651)| 3D MRI	 | - |  Clinical study |[*](https://www.ppmi-info.org/)|
+|[ ATLAS v2.0 ](https://www.nature.com/articles/s41597-022-01401-7)| 3D MRI	 | 1,271 volumes	 |  Segmentation |[*](http://fcon_1000.projects.nitrc.org/indi/retro/atlas.html)|
+|[ PI-CAI   ](https://openreview.net/pdf?id=XfXcA9-0XxR)| 3D MRI	 | 1,500 volumes	 |  Segmentation |[*](https://zenodo.org/records/6624726)|
+|[ MRNet   ](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002699)| 3D MRI	 | 1,370 volumes	 |  Segmentation |[*](https://stanfordmlgroup.github.io/competitions/mrnet/)|
+|[  Retinal OCT-C8 ](https://ieeexplore.ieee.org/iel7/9740652/9740653/09740985.pdf)| 2D OCT	 | 24,000 volumes	 |  Classification |[*](https://www.kaggle.com/datasets/obulisainaren/retinal-oct-c8)|
+|[ Ultrasound Nerve Segmentation  ](https://kaggle.com/competitions/ultrasound-nerve-segmentation)| US	 | 11,143 images	 |  Segmentation |[*](https://www.kaggle.com/c/ultrasound-nerve-segmentation/data)|
+|[ Fetal Planes  ](https://www.nature.com/articles/s41598-020-67076-5)| US	 |12,400 images		 |  Classification |[*](https://zenodo.org/records/3904280)|
+|[  EchoNet-LVH ](https://jamanetwork.com/journals/jamacardiology/fullarticle/2789370)| US	 | 12,000 videos |  Detection, Clinical study |[*](https://echonet.github.io/lvh/)|
+|[ EchoNet-Dynamic  ](https://www.nature.com/articles/s41586-020-2145-8)| US	 | 10,030 videos |  Function assessment |[*](https://echonet.github.io/dynamic/index.html)|
+|[ AIROGS  ](https://ieeexplore.ieee.org/iel7/42/4359023/10253652.pdf)| CFP	 |113,893 images	|  Classification |[*](https://airogs.grand-challenge.org/)|
+|[ ISIC 2020  ](https://www.nature.com/articles/s41597-021-00815-z)| Dermoscopy	 | 33,126 images	 |  Classification |[*](https://challenge2020.isic-archive.com/)|
+|[ LC25000  ](https://arxiv.org/pdf/1912.12142)| Pathology	 | 25,000 images	 |  Classification |[*](https://github.com/tampapath/lung_colon_image_set)|
+|[ DeepLIIF  ](https://www.nature.com/articles/s42256-022-00471-x)| Pathology	 | 1,667 WSIs	 |  Classification |[*](https://deepliif.org/)|
+|[ PAIP  ](https://www.sciencedirect.com/science/article/pii/S1361841520302188)| Pathology	 | 2,457 WSIs	 |  Segmentation |[*](https://paip2019.grand-challenge.org/)|
+|[TissueNet](https://www.nature.com/articles/s41587-021-01094-0)| Pathology	 | 1,016 WSIs |  Classification |[*](https://www.drivendata.org/competitions/67/competition-cervicalbiopsy/page/254/)|
+|[NLST](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3009383/)| 3D CT, Pathology	 | 26,254 CT, 451 WSIs |  Clinical  study |[*](https://www.cancerimagingarchive.net/collection/nlst/)|
+|[CRC](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002730)| Pathology	 | 100k images	 |  Classification |[*](https://zenodo.org/records/1214456)|
+|[MURA](https://openreview.net/forum?id=r1Q98pjiG)| X-ray	 | 40,895 images |  Detection |[*](https://stanfordmlgroup.github.io/competitions/mura/)|
+|[ChestX-ray14](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf)| X-ray	 |  112,120 images|  Detection |[*](https://paperswithcode.com/dataset/chestx-ray14)|
+|[SNOW](https://www.nature.com/articles/s41597-023-02125-y)| Synthetic pathology	 |20K image tiles|  Segmentation |[*](https://zenodo.org/records/6633721#.YuE33OzMJhE)|
+|[TCGA](https://www.nature.com/articles/ng.2764.)| Multimodal images, Clinical data	 | - |  Clinical study |[*](https://portal.gdc.cancer.gov)|
 |[CPTAC]()| Multimodal images, Clinical data	 | - |  Clinical study |[*](https://pdc.cancer.gov/pdc/browse)|
 
 
