@@ -52,7 +52,7 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - [arXiv] SegmentAnyBone: A Universal Model that Segments Any Bone at Any Location on MRI [[paper]](https://arxiv.org/html/2401.12974v1) [[Code]](https://github.com/mazurowski-lab/SegmentAnyBone)
 - [SSRN] Swinsam: Fine-Grained Polyp Segmentation in Colonoscopy Images Via Segment Anything Model Integrated with a Swin Transformer Decoder. [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4673046)
 - [AAAI] Surgicalsam: Efficient class promptable surgical instrument segmentation [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/28514/29002) [[Code]](https://github.com/wenxi-yue/SurgicalSAM)
-- [arXiv] [[paper]]() [[Code]]()
+- [Medical Image Analysis] Prompt tuning for parameter-efficient medical image segmentation. [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841523002840) [[Code]](https://github.com/marcdcfischer/PUNETR)
 - [arXiv] [[paper]]() [[Code]]()
 - [arXiv] [[paper]]() [[Code]]()
 - [arXiv] [[paper]]() [[Code]]()
@@ -97,7 +97,9 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - [MICCAI] SAM-U: Multi-box prompts triggered uncertainty estimation for reliable SAM in medical image. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-47425-5_33)
 - [MICCAI] Sam-path: A segment anything model for semantic segmentation in digital pathology. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-47401-9_16) 
 - [arXiv] All-in-sam: from weak annotation to pixel-wise nuclei segmentation with prompt-based finetuning.[[paper]](https://arxiv.org/pdf/2307.00290) 
-
+- [arXiv] Polyp-sam++: Can a text guided sam perform better for polyp segmentation? [[paper]](https://arxiv.org/pdf/2308.06623) [[Code]](https://github.com/RisabBiswas/Polyp-SAM++)
+- [arXiv] [[paper]]() [[Code]]()
+- [arXiv] [[paper]]() [[Code]]()
 - [arXiv] [[paper]]() [[Code]]()
 - [arXiv] [[paper]]() [[Code]]()
 
