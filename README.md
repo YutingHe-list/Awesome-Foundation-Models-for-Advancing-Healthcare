@@ -43,7 +43,7 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - [MedIA] On the challenges and perspectives of foundation models for medical image analysis. [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841523002566)
 
 # Methods
-## LFM methods in healthcare
+## LFM methods
 **2024**
 - [AAAI] Zhongjing: Enhancing the chinese medical capabilities of large language model through expert feedback and realworld multi-turn dialogue. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29907) [[Code]](https://github.com/SupritYoung/Zhongjing)
 - [arXiv] Me LLaMA: Foundation Large Language Models for Medical Applications [[Paper]](https://arxiv.org/abs/2402.12749) [[Code]](https://github.com/BIDS-Xu-Lab/Me-LLaMA)
