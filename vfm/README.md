@@ -135,31 +135,31 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 |[  CTSpine1K ]()| 3D CT	 | 1,005 volumes	 |  Segmentation |[*](https://github.com/MIRACLE-Center/CTSpine1K)|
 |[  CTPelvic1K ]()| 3D CT	 | 1,184 volumes	 |  Segmentation |[*](https://zenodo.org/record/4588403#.YEyLq_0zaCo)|
 |[ MSD  ]()| 3D CT, 3D MRI	 | 1,411 CT, 1,222 MRI	 |  Segmentation |[*](http://medicaldecathlon.com/)|
-|[ BraTS21  ]()| 3D MRI  |  |  Segmentation |[*]()|
-|[ BraTS2023-MEN  ]()| 3D MRI  |  |  Segmentation |[*]()|
-|[ ADNI  ]()| 3D MRI	 |  |  Segmentation |[*]()|
-|[  PPMI ]()| 3D MRI	 |  |  Segmentation |[*]()|
-|[ ATLAS v2.0 ]()| 3D MRI	 |  |  Segmentation |[*]()|
-|[ PI-CAI   ]()| 3D MRI	 |  |  Segmentation |[*]()|
-|[ MRNet   ]()| 3D MRI	 |  |  Segmentation |[*]()|
+|[ BraTS21  ]()| 3D MRI  | 2,040 volumes	 |  Segmentation |[*](https://www.synapse.org/#!Synapse:syn51514105)|
+|[ BraTS2023-MEN  ]()| 3D MRI  |1,650 volumes	|  Segmentation |[*](https://www.synapse.org/#!Synapse:syn51514106)|
+|[ ADNI  ]()| 3D MRI	 | - |  Clinical study |[*](https://adni.loni.usc.edu/)|
+|[  PPMI ]()| 3D MRI	 | - |  Clinical study |[*](https://www.ppmi-info.org/)|
+|[ ATLAS v2.0 ]()| 3D MRI	 | 1,271 volumes	 |  Segmentation |[*](http://fcon_1000.projects.nitrc.org/indi/retro/atlas.html)|
+|[ PI-CAI   ]()| 3D MRI	 | 1,500 volumes	 |  Segmentation |[*](https://zenodo.org/records/6624726)|
+|[ MRNet   ]()| 3D MRI	 | 1,370 volumes	 |  Segmentation |[*](https://stanfordmlgroup.github.io/competitions/mrnet/)|
 |[  Retinal OCT-C8 ]()| 2D OCT	 | 24,000 volumes	 |  Classification |[*](https://www.kaggle.com/datasets/obulisainaren/retinal-oct-c8)|
-|[ Ultrasound Nerve Segmentation  ]()| US	 |  |  Classification |[*]()|
-|[ Fetal Planes  ]()| US	 |  |  Classification |[*]()|
-|[  EchoNet-LVH ]()| US	 |  |  Classification |[*]()|
-|[ EchoNet-Dynamic  ]()| US	 |  |  Classification |[*]()|
-|[ AIROGS  ]()| CFP	 |  |  Classification |[*]()|
-|[ ISIC 2020  ]()| Dermoscopy	 |  |  Classification |[*]()|
-|[ LC25000  ]()| Pathology	 |  |  Classification |[*]()|
-|[ DeepLIIF  ]()| Pathology	 |  |  Classification |[*]()|
-|[ PAIP  ]()| Pathology	 |  |  Classification |[*]()|
-|[TissueNet]()| Pathology	 |  |  Classification |[*]()|
-|[NLST]()| 3D CT, Pathology	 |  |  Classification |[*]()|
-|[CRC]()| Pathology	 |  |  Classification |[*]()|
-|[MURA]()| X-ray	 |  |  Classification |[*]()|
-|[ChestX-ray14]()| X-ray	 |  |  Classification |[*]()|
-|[SNOW]()| Synthetic pathology	 |Synthetic pathology|  Segmentation |[*]()|
-|[TCGA]()| Multimodal images, Clinical data	 | - |  Clinical study |[*]()|
-|[CPTAC]()| Multimodal images, Clinical data	 | - |  Clinical study |[*]()|
+|[ Ultrasound Nerve Segmentation  ]()| US	 | 11,143 images	 |  Segmentation |[*](https://www.kaggle.com/c/ultrasound-nerve-segmentation/data)|
+|[ Fetal Planes  ]()| US	 |12,400 images		 |  Classification |[*](https://zenodo.org/records/3904280)|
+|[  EchoNet-LVH ]()| US	 | 12,000 videos |  Detection, Clinical study |[*](https://echonet.github.io/lvh/)|
+|[ EchoNet-Dynamic  ]()| US	 | 10,030 videos |  Function assessment |[*](https://echonet.github.io/dynamic/index.html)|
+|[ AIROGS  ]()| CFP	 |113,893 images	|  Classification |[*](https://airogs.grand-challenge.org/)|
+|[ ISIC 2020  ]()| Dermoscopy	 | 33,126 images	 |  Classification |[*](https://challenge2020.isic-archive.com/)|
+|[ LC25000  ]()| Pathology	 | 25,000 images	 |  Classification |[*](https://github.com/tampapath/lung_colon_image_set)|
+|[ DeepLIIF  ]()| Pathology	 | 1,667 WSIs	 |  Classification |[*](https://deepliif.org/)|
+|[ PAIP  ]()| Pathology	 | 2,457 WSIs	 |  Segmentation |[*](https://www.drivendata.org/competitions/67/competition-cervicalbiopsy/page/254/)|
+|[TissueNet]()| Pathology	 | 1,016 WSIs |  Classification |[*]()|
+|[NLST]()| 3D CT, Pathology	 | 26,254 CT, 451 WSIs |  Clinical  study |[*](https://www.cancerimagingarchive.net/collection/nlst/)|
+|[CRC]()| Pathology	 | 100k images	 |  Classification |[*](https://zenodo.org/records/1214456)|
+|[MURA]()| X-ray	 | 40,895 images |  Detection |[*](https://stanfordmlgroup.github.io/competitions/mura/)|
+|[ChestX-ray14]()| X-ray	 |  112,120 images|  Detection |[*](https://paperswithcode.com/dataset/chestx-ray14)|
+|[SNOW]()| Synthetic pathology	 |20K image tiles|  Segmentation |[*](https://zenodo.org/records/6633721#.YuE33OzMJhE)|
+|[TCGA]()| Multimodal images, Clinical data	 | - |  Clinical study |[*](https://portal.gdc.cancer.gov)|
+|[CPTAC]()| Multimodal images, Clinical data	 | - |  Clinical study |[*](https://pdc.cancer.gov/pdc/browse)|
 
 
 
