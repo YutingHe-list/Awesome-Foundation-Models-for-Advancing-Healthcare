@@ -125,9 +125,45 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 |[HyperKvasir](https://www.nature.com/articles/s41597-020-00622-y)| Endoscopy | 374 videos (1,059,519 frames) |  Detection |[*](https://datasets.simula.no/hyper-kvasir)|
 |[CholecT45](https://arxiv.org/pdf/2204.05235.pdf)| Endoscopy |  45 videos (90489 frames)  |  Segmentation, Detection |[*](https://github.com/CAMMA-public/cholect45)|
 |[DeepLesion](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-5/issue-3/036501/DeepLesion--automated-mining-of-large-scale-lesion-annotations-and/10.1117/1.JMI.5.3.036501.full)| CT slices (2D) | 32,735 images |  Segmentation, Registration |[*](nihcc.app.box.com)|
-|[]()| Endoscopy | 1,018 volumes	 |  Detection |[*]()|
-|[   ]()| Endoscopy |  |  Detection |[*]()|
-|[   ]()| Endoscopy |  |  Detection |[*]()|
+|[LIDC-IDRI]()| 3D CT	 | 1,018 volumes	 |  Segmentation |[*](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254)|
+|[  TotalSegmentator ]()| 3D CT	 | 1,228 volumes	 |  Segmentation |[*](https://pubs.rsna.org/doi/10.1148/ryai.230024)|
+|[AutoPET   ]()|3D CT, 3D PET |  1,214 PET-CT pairs	|  Segmentation |[*](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93258287)|
+|[  ULS ]()| 3D CT	 |  38,842 volumes	|  Segmentation |[*](https://uls23.grand-challenge.org/)|
+|[ FLARE 2022  ]()| 3D CT	 | 2,300 volumes	 |  Segmentation |[*](https://flare22.grand-challenge.org/Dataset/)|
+|[ FLARE 2023  ]()| 3D CT	 |  4,500 volumes	|  Segmentation |[*](https://codalab.lisn.upsaclay.fr/competitions/12239#learn_the_details-dataset)|
+|[ AbdomenCT-1K  ]()| 3D CT	 | 1,112 volumes	 |Segmentation |[*](https://github.com/JunMa11/AbdomenCT-1K)|
+|[  CTSpine1K ]()| 3D CT	 | 1,005 volumes	 |  Segmentation |[*](https://github.com/MIRACLE-Center/CTSpine1K)|
+|[  CTPelvic1K ]()| 3D CT	 | 1,184 volumes	 |  Segmentation |[*](https://zenodo.org/record/4588403#.YEyLq_0zaCo)|
+|[ MSD  ]()| 3D CT, 3D MRI	 | 1,411 CT, 1,222 MRI	 |  Segmentation |[*](http://medicaldecathlon.com/)|
+|[ BraTS21  ]()| 3D MRI  |  |  Segmentation |[*]()|
+|[ BraTS2023-MEN  ]()| 3D MRI  |  |  Segmentation |[*]()|
+|[ ADNI  ]()| 3D MRI	 |  |  Segmentation |[*]()|
+|[  PPMI ]()| 3D MRI	 |  |  Segmentation |[*]()|
+|[ ATLAS v2.0 ]()| 3D MRI	 |  |  Segmentation |[*]()|
+|[ PI-CAI   ]()| 3D MRI	 |  |  Segmentation |[*]()|
+|[ MRNet   ]()| 3D MRI	 |  |  Segmentation |[*]()|
+|[  Retinal OCT-C8 ]()| 2D OCT	 | 24,000 volumes	 |  Classification |[*](https://www.kaggle.com/datasets/obulisainaren/retinal-oct-c8)|
+|[ Ultrasound Nerve Segmentation  ]()| US	 |  |  Classification |[*]()|
+|[ Fetal Planes  ]()| US	 |  |  Classification |[*]()|
+|[  EchoNet-LVH ]()| US	 |  |  Classification |[*]()|
+|[ EchoNet-Dynamic  ]()| US	 |  |  Classification |[*]()|
+|[ AIROGS  ]()| CFP	 |  |  Classification |[*]()|
+|[ ISIC 2020  ]()| Dermoscopy	 |  |  Classification |[*]()|
+|[ LC25000  ]()| Pathology	 |  |  Classification |[*]()|
+|[ DeepLIIF  ]()| Pathology	 |  |  Classification |[*]()|
+|[ PAIP  ]()| Pathology	 |  |  Classification |[*]()|
+|[TissueNet]()| Pathology	 |  |  Classification |[*]()|
+|[NLST]()| 3D CT, Pathology	 |  |  Classification |[*]()|
+|[CRC]()| Pathology	 |  |  Classification |[*]()|
+|[MURA]()| X-ray	 |  |  Classification |[*]()|
+|[ChestX-ray14]()| X-ray	 |  |  Classification |[*]()|
+|[SNOW]()| Synthetic pathology	 |Synthetic pathology|  Segmentation |[*]()|
+|[TCGA]()| Multimodal images, Clinical data	 | - |  Clinical study |[*]()|
+|[CPTAC]()| Multimodal images, Clinical data	 | - |  Clinical study |[*]()|
+
+
+
+
 
 
 
