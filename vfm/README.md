@@ -124,7 +124,7 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 |[LDPolypVideo](https://link.springer.com/chapter/10.1007/978-3-030-87240-3_37) | Endoscopy | 263 videos (895,284 frames) |  Detection |[*](https://github.com/dashishi/LDPolypVideo-Benchmark)|
 |[HyperKvasir](https://www.nature.com/articles/s41597-020-00622-y)| Endoscopy | 374 videos (1,059,519 frames) |  Detection |[*](https://datasets.simula.no/hyper-kvasir)|
 |[CholecT45](https://arxiv.org/pdf/2204.05235.pdf)| Endoscopy |  45 videos (90489 frames)  |  Segmentation, Detection |[*](https://github.com/CAMMA-public/cholect45)|
-|[DeepLesion]()| CT slices (2D) | 32,735 images |  Segmentation, Registration |[*](nihcc.app.box.com)|
+|[DeepLesion](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-5/issue-3/036501/DeepLesion--automated-mining-of-large-scale-lesion-annotations-and/10.1117/1.JMI.5.3.036501.full)| CT slices (2D) | 32,735 images |  Segmentation, Registration |[*](nihcc.app.box.com)|
 |[]()| Endoscopy | 1,018 volumes	 |  Detection |[*]()|
 |[   ]()| Endoscopy |  |  Detection |[*]()|
 |[   ]()| Endoscopy |  |  Detection |[*]()|
