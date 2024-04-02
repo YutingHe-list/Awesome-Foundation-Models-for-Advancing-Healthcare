@@ -113,6 +113,7 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 **2021**
 - [Medical Image Analysis] Models Genesis. [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841520302048) [[Code]](https://github.com/MrGiovanni/ModelsGenesis)
 - [Medical Imaging with Deep Learning] MoCo Pretraining Improves Representation and Transferability of Chest X-ray Models. [[paper]](https://proceedings.mlr.press/v143/sowrirajan21a.html)
+- [IEEE transactions on medical imaging] Transferable visual words: Exploiting the semantics of anatomical patterns for self-supervised learning.[[Paper]](https://ieeexplore.ieee.org/iel7/42/4359023/09359803.pdf)
 
 **2020**
 - [MICCAI] Comparing to Learn: Surpassing ImageNet Pretraining on Radiographs by Comparing Image Representations. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_39) [[Code]](https://github.com/funnyzhou/C2L_MICCAI2020)
