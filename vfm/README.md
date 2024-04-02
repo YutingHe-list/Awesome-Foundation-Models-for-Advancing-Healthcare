@@ -53,9 +53,7 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - [SSRN] Swinsam: Fine-Grained Polyp Segmentation in Colonoscopy Images Via Segment Anything Model Integrated with a Swin Transformer Decoder. [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4673046)
 - [AAAI] Surgicalsam: Efficient class promptable surgical instrument segmentation [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/28514/29002) [[Code]](https://github.com/wenxi-yue/SurgicalSAM)
 - [Medical Image Analysis] Prompt tuning for parameter-efficient medical image segmentation. [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841523002840) [[Code]](https://github.com/marcdcfischer/PUNETR)
-- [arXiv] [[paper]]() [[Code]]()
-- [arXiv] [[paper]]() [[Code]]()
-- [arXiv] [[paper]]() [[Code]]()
+
 
 **2023**
  - [ICCV] UniverSeg: Universal Medical Image Segmentation. [[paper]](https://openaccess.thecvf.com/content/ICCV2023/papers/Butoi_UniverSeg_Universal_Medical_Image_Segmentation_ICCV_2023_paper.pdf) [[Code]](https://universeg.csail.mit.edu)
@@ -114,7 +112,7 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 
 **2021**
 - [Medical Image Analysis] Models Genesis. [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841520302048) [[Code]](https://github.com/MrGiovanni/ModelsGenesis)
-- MoCo Pretraining Improves Representation and Transferability of Chest X-ray Models. [[paper]](https://proceedings.mlr.press/v143/sowrirajan21a.html)
+- [Medical Imaging with Deep Learning] MoCo Pretraining Improves Representation and Transferability of Chest X-ray Models. [[paper]](https://proceedings.mlr.press/v143/sowrirajan21a.html)
 
 **2020**
 - [MICCAI] Comparing to Learn: Surpassing ImageNet Pretraining on Radiographs by Comparing Image Representations. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_39) [[Code]](https://github.com/funnyzhou/C2L_MICCAI2020)
