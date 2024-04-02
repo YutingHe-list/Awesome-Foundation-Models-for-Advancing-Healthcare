@@ -221,7 +221,7 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - [arXiv] RoentGen: Vision-Language Foundation Model for Chest X-ray Generation. [[Paper]](https://arxiv.org/abs/2211.12737)
 - [arXiv] Adapting pretrained vision-language foundational models to medical imaging domains. [[Paper]](https://arxiv.org/abs/2210.04133)
 - [arXiv] Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study. [[Paper]](https://arxiv.org/abs/2209.15517)
-
+- [EMNLP] Medclip: Contrastive learning from unpaired medical images and text. [[Paper]](https://arxiv.org/abs/2210.10163) [[Code]](https://github.com/RyanWangZf/MedCLIP)
 
 **2021**
 - [arXiv] MMBERT: Multimodal BERT Pretraining for Improved Medical VQA. [[Paper]](https://arxiv.org/abs/2104.01394) [[Code]](https://github.com/VirajBagal/MMBERT)
