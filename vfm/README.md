@@ -156,24 +156,24 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 |[LIDC-IDRI](https://aapm.onlinelibrary.wiley.com/doi/full/10.1118/1.3528204)| 3D CT	 | 1,018 volumes	 |  Segmentation |[*](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254)|
 |[  TotalSegmentator ]()| 3D CT	 | 1,204 volumes	 |  Segmentation |[*](https://doi.org/10.5281/zenodo.6802613)|
 |[  TotalSegmentatorv2 ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10546353/)| 3D CT	 | 1,228 volumes	 |  Segmentation |[*](https://doi.org/10.5281/zenodo.6802613)|
-|[AutoPET   ](https://www.nature.com/articles/s41597-022-01718-3) (https://assets.researchsquare.com/files/rs-2572595/v1/0776fa51-ab91-4497-9574-455ff40addd3.pdf?c=1686774690)|3D CT, 3D PET |  1,214 PET-CT pairs	|  Segmentation |[*](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93258287)|
-|[  ULS ]()| 3D CT	 |  38,842 volumes	|  Segmentation |[*](https://uls23.grand-challenge.org/)|
-|[ FLARE 2022  ]()| 3D CT	 | 2,300 volumes	 |  Segmentation |[*](https://flare22.grand-challenge.org/Dataset/)|
+|[AutoPET   ](https://www.nature.com/articles/s41597-022-01718-3)|3D CT, 3D PET |  1,214 PET-CT pairs	|  Segmentation |[*](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93258287)|
+|[  ULS ]| 3D CT	 |  38,842 volumes	|  Segmentation |[*](https://uls23.grand-challenge.org/)|
+|[ FLARE 2022  ](https://arxiv.org/pdf/2308.05862)| 3D CT	 | 2,300 volumes	 |  Segmentation |[*](https://flare22.grand-challenge.org/Dataset/)|
 |[ FLARE 2023  ]()| 3D CT	 |  4,500 volumes	|  Segmentation |[*](https://codalab.lisn.upsaclay.fr/competitions/12239#learn_the_details-dataset)|
-|[ AbdomenCT-1K  ]()| 3D CT	 | 1,112 volumes	 |Segmentation |[*](https://github.com/JunMa11/AbdomenCT-1K)|
-|[  CTSpine1K ]()| 3D CT	 | 1,005 volumes	 |  Segmentation |[*](https://github.com/MIRACLE-Center/CTSpine1K)|
-|[  CTPelvic1K ]()| 3D CT	 | 1,184 volumes	 |  Segmentation |[*](https://zenodo.org/record/4588403#.YEyLq_0zaCo)|
-|[ MSD  ]()| 3D CT, 3D MRI	 | 1,411 CT, 1,222 MRI	 |  Segmentation |[*](http://medicaldecathlon.com/)|
-|[ BraTS21  ]()| 3D MRI  | 2,040 volumes	 |  Segmentation |[*](https://www.synapse.org/#!Synapse:syn51514105)|
-|[ BraTS2023-MEN  ]()| 3D MRI  |1,650 volumes	|  Segmentation |[*](https://www.synapse.org/#!Synapse:syn51514106)|
-|[ ADNI  ]()| 3D MRI	 | - |  Clinical study |[*](https://adni.loni.usc.edu/)|
-|[  PPMI ]()| 3D MRI	 | - |  Clinical study |[*](https://www.ppmi-info.org/)|
-|[ ATLAS v2.0 ]()| 3D MRI	 | 1,271 volumes	 |  Segmentation |[*](http://fcon_1000.projects.nitrc.org/indi/retro/atlas.html)|
-|[ PI-CAI   ]()| 3D MRI	 | 1,500 volumes	 |  Segmentation |[*](https://zenodo.org/records/6624726)|
-|[ MRNet   ]()| 3D MRI	 | 1,370 volumes	 |  Segmentation |[*](https://stanfordmlgroup.github.io/competitions/mrnet/)|
-|[  Retinal OCT-C8 ]()| 2D OCT	 | 24,000 volumes	 |  Classification |[*](https://www.kaggle.com/datasets/obulisainaren/retinal-oct-c8)|
-|[ Ultrasound Nerve Segmentation  ]()| US	 | 11,143 images	 |  Segmentation |[*](https://www.kaggle.com/c/ultrasound-nerve-segmentation/data)|
-|[ Fetal Planes  ]()| US	 |12,400 images		 |  Classification |[*](https://zenodo.org/records/3904280)|
+|[ AbdomenCT-1K  ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9497733)| 3D CT	 | 1,112 volumes	 |Segmentation |[*](https://github.com/JunMa11/AbdomenCT-1K)|
+|[  CTSpine1K ](https://arxiv.org/pdf/2105.14711)| 3D CT	 | 1,005 volumes	 |  Segmentation |[*](https://github.com/MIRACLE-Center/CTSpine1K)|
+|[  CTPelvic1K ](https://link.springer.com/article/10.1007/s11548-021-02363-8)| 3D CT	 | 1,184 volumes	 |  Segmentation |[*](https://zenodo.org/record/4588403#.YEyLq_0zaCo)|
+|[ MSD  ](https://www.nature.com/articles/s41467-022-30695-9)| 3D CT, 3D MRI	 | 1,411 CT, 1,222 MRI	 |  Segmentation |[*](http://medicaldecathlon.com/)|
+|[ BraTS21  ](https://www.nature.com/articles/sdata2017117)| 3D MRI  | 2,040 volumes	 |  Segmentation |[*](https://www.synapse.org/#!Synapse:syn51514105)|
+|[ BraTS2023-MEN  ](https://arxiv.org/pdf/2305.07642)| 3D MRI  |1,650 volumes	|  Segmentation |[*](https://www.synapse.org/#!Synapse:syn51514106)|
+|[ ADNI  ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2809036/)| 3D MRI	 | - |  Clinical study |[*](https://adni.loni.usc.edu/)|
+|[  PPMI ](https://www.sciencedirect.com/science/article/pii/S0301008211001651)| 3D MRI	 | - |  Clinical study |[*](https://www.ppmi-info.org/)|
+|[ ATLAS v2.0 ](https://www.nature.com/articles/s41597-022-01401-7)| 3D MRI	 | 1,271 volumes	 |  Segmentation |[*](http://fcon_1000.projects.nitrc.org/indi/retro/atlas.html)|
+|[ PI-CAI   ](https://openreview.net/pdf?id=XfXcA9-0XxR)| 3D MRI	 | 1,500 volumes	 |  Segmentation |[*](https://zenodo.org/records/6624726)|
+|[ MRNet   ](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002699)| 3D MRI	 | 1,370 volumes	 |  Segmentation |[*](https://stanfordmlgroup.github.io/competitions/mrnet/)|
+|[  Retinal OCT-C8 ](https://ieeexplore.ieee.org/iel7/9740652/9740653/09740985.pdf)| 2D OCT	 | 24,000 volumes	 |  Classification |[*](https://www.kaggle.com/datasets/obulisainaren/retinal-oct-c8)|
+|[ Ultrasound Nerve Segmentation  ](https://kaggle.com/competitions/ultrasound-nerve-segmentation)| US	 | 11,143 images	 |  Segmentation |[*](https://www.kaggle.com/c/ultrasound-nerve-segmentation/data)|
+|[ Fetal Planes  ](https://www.nature.com/articles/s41598-020-67076-5)| US	 |12,400 images		 |  Classification |[*](https://zenodo.org/records/3904280)|
 |[  EchoNet-LVH ]()| US	 | 12,000 videos |  Detection, Clinical study |[*](https://echonet.github.io/lvh/)|
 |[ EchoNet-Dynamic  ]()| US	 | 10,030 videos |  Function assessment |[*](https://echonet.github.io/dynamic/index.html)|
 |[ AIROGS  ]()| CFP	 |113,893 images	|  Classification |[*](https://airogs.grand-challenge.org/)|
