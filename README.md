@@ -112,11 +112,12 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - [arXiv] RudolfV: A Foundation Model by Pathologists for Pathologists. [[paper]](https://arxiv.org/pdf/2401.04079) [[Code]]()
 - [Nature Communications] Segment anything in medical images. [[paper]](https://www.nature.com/articles/s41467-024-44824-z) [[Code]](https://github.com/bowang-lab/MedSAM)
 - [ICASSP] SAM-OCTA: A Fine-Tuning Strategy for Applying Foundation Model to OCTA Image Segmentation Tasks.[[paper]](https://ieeexplore.ieee.org/iel7/10445798/10445803/10446904.pdf) [[Code]](https://github.com/ShellRedia/SAM-OCTA)
-- [WACV] AFTer-SAM: Adapting SAM With Axial Fusion Transformer for Medical Imaging Segmentation.[[paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Yan_AFTer-SAM_Adapting_SAM_With_Axial_Fusion_Transformer_for_Medical_Imaging_WACV_2024_paper.pdf) [[Code]]()
+- [WACV] AFTer-SAM: Adapting SAM With Axial Fusion Transformer for Medical Imaging Segmentation. [[paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Yan_AFTer-SAM_Adapting_SAM_With_Axial_Fusion_Transformer_for_Medical_Imaging_WACV_2024_paper.pdf)
 - [MIDL] Adaptivesam: Towards efficient tuning of sam for surgical scene segmentation. [[paper]](https://arxiv.org/pdf/2308.03726) [[Code]](https://github.com/JayParanjape/biastuning) 
-- [arXiv] [[paper]]() [[Code]]()
-- [arXiv] [[paper]]() [[Code]]()
-- [arXiv] [[paper]]() [[Code]]()
+- [arXiv] SegmentAnyBone: A Universal Model that Segments Any Bone at Any Location on MRI [[paper]](https://arxiv.org/html/2401.12974v1) [[Code]](https://github.com/mazurowski-lab/SegmentAnyBone)
+- [SSRN] Swinsam: Fine-Grained Polyp Segmentation in Colonoscopy Images Via Segment Anything Model Integrated with a Swin Transformer Decoder. [[paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4673046)
+- [AAAI] Surgicalsam: Efficient class promptable surgical instrument segmentation [[paper]](https://ojs.aaai.org/index.php/AAAI/article/download/28514/29002) [[Code]](https://github.com/wenxi-yue/SurgicalSAM)
+- [Medical Image Analysis] Prompt tuning for parameter-efficient medical image segmentation. [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841523002840) [[Code]](https://github.com/marcdcfischer/PUNETR)
 - [arXiv] [[paper]]() [[Code]]()
 - [arXiv] [[paper]]() [[Code]]()
 - [arXiv] [[paper]]() [[Code]]()
@@ -144,7 +145,6 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - [arXiv] Towards General Purpose Vision Foundation Models for Medical Image Analysis: An Experimental Study of DINOv2 on Radiology Benchmarks.[[paper]](https://arxiv.org/html/2312.02366v3) [[Code]](https://github.com/MohammedSB/DINOv2ForRadiology)
 - [arXiv] Skinsam: Empowering skin cancer segmentation with segment anything model.[[paper]](https://arxiv.org/pdf/2304.13973) 
 - [arXiv] Polyp-sam: Transfer sam for polyp segmentation. [[paper]](https://arxiv.org/pdf/2305.00293) [[Code]](https://github.com/ricklisz/Polyp-SAM)
-
 - [arXiv] Customized segment anything model for medical image segmentation. [[paper]](https://arxiv.org/pdf/2304.13785) [[Code]](https://github.com/hitachinsk/SAMed)
 - [arXiv] Ladder Fine-tuning approach for SAM integrating complementary network. [[paper]](https://arxiv.org/pdf/2306.12737) [[Code]](https://github.com/11yxk/SAM-LST)
 - [arXiv] Cheap lunch for medical image segmentation by fine-tuning sam on few exemplars. [[paper]](https://arxiv.org/pdf/2308.14133)
@@ -154,34 +154,40 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - [arXiv] Medical sam adapter: Adapting segment anything model for medical image segmentation. [[paper]](https://arxiv.org/html/2304.12620v7) [[Code]](https://github.com/KidsWithTokens/Medical-SAM-Adapter)
 - [arXiv] SAM-Med2D [[paper]](https://arxiv.org/pdf/2308.16184.pdf) [[Code]](https://github.com/uni-medical/SAM-Med2D)
 - [arXiv] Medivista-sam: Zero-shot medical video analysis with spatio-temporal sam adaptation. [[paper]](https://arxiv.org/pdf/2309.13539) [[Code]](https://github.com/kimsekeun/MediViSTA-SAM)
-- [arXiv] [[paper]]() [[Code]]()
-- [arXiv] [[paper]]() [[Code]]()
-- [arXiv] [[paper]]() [[Code]]()
-- [arXiv] [[paper]]() [[Code]]()
-- [arXiv] [[paper]]() [[Code]]()
+- [arXiv] Samus: Adapting segment anything model for clinically-friendly and generalizable ultrasound image segmentation. [[paper]](https://arxiv.org/pdf/2309.06824)
+- [MICCAI] Input augmentation with sam: Boosting medical image segmentation with segmentation foundation model.  [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-47401-9_13) [[Code]](https://github.com/yizhezhang2000/SAMAug)
+- [arXiv] AutoSAM: Adapting SAM to Medical Images by Overloading the Prompt Encoder. [[paper]](https://arxiv.org/pdf/2306.06370)
+- [arXiv] DeSAM: Decoupling Segment Anything Model for Generalizable Medical Image Segmentation [[paper]](https://arxiv.org/pdf/2306.00499) [[Code]](https://github.com/yifangao112/DeSAM)
+- [bioRxiv] A Foundation Model for Cell Segmentation.[[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10690226/) [[Code]](https://label-dev.deepcell.org/)
+- [MICCAI] SAM-U: Multi-box prompts triggered uncertainty estimation for reliable SAM in medical image. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-47425-5_33)
+- [MICCAI] Sam-path: A segment anything model for semantic segmentation in digital pathology. [[paper]](https://link.springer.com/chapter/10.1007/978-3-031-47401-9_16) 
+- [arXiv] All-in-sam: from weak annotation to pixel-wise nuclei segmentation with prompt-based finetuning.[[paper]](https://arxiv.org/pdf/2307.00290) 
+- [arXiv] Polyp-sam++: Can a text guided sam perform better for polyp segmentation? [[paper]](https://arxiv.org/pdf/2308.06623) [[Code]](https://github.com/RisabBiswas/Polyp-SAM++)
+- [arXiv] Segment anything model with uncertainty rectification for auto-prompting medical image segmentation. [[paper]](https://arxiv.org/pdf/2311.10529) 
+- [arXiv] MedLSAM: Localize and Segment Anything Model for 3D Medical Images. [[paper]](https://arxiv.org/pdf/2306.14752) [[Code]](https://github.com/openmedlab/MedLSAM)
+- [arXiv] nnSAM: Plug-and-play Segment Anything Model Improves nnUNet Performance. [[paper]](https://arxiv.org/pdf/2309.16967) [[Code]](https://github.com/Kent0n-Li/Medical-Image-Segmentation)
+- [arXiv] EviPrompt: A Training-Free Evidential Prompt Generation Method for Segment Anything Model in Medical Images. [[paper]](https://arxiv.org/pdf/2311.06400) 
+- [arXiv] One-shot localization and segmentation of medical images with foundation models. [[paper]](https://arxiv.org/pdf/2310.18642) 
+- [arXiv] Samm (segment any medical model): A 3d slicer integration to sam. [[paper]](https://arxiv.org/html/2304.05622v4) [[Code]](https://github.com/bingogome/samm)
+- [arXiv] Task-Driven Prompt Evolution for Foundation Models.[[paper]](https://dl.acm.org/doi/abs/10.1007/978-3-031-47401-9_25) 
 
 **2022**
 - [Machine Learning with Applications] Self Supervised Contrastive Learning for Digital Histopathology. [[paper]](https://www.sciencedirect.com/science/article/pii/S2666827021000992) [[Code]](https://github.com/ozanciga/self-supervised-histopathology)
 - [Medical Image Analysis] Transformer-Based Unsupervised Contrastive Learning for Histopathological Image Classification. [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841522002043) [[Code]](https://github.com/Xiyue-Wang/TransPath)
 - [arXiv] Self-supervised Learning from 100 Million Medical Images. [[paper]](https://arxiv.org/pdf/2201.01283.pdf) 
 - [CVPR] Self-supervised pre-training of swin transformers for 3d medical image analysis.[[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Self-Supervised_Pre-Training_of_Swin_Transformers_for_3D_Medical_Image_Analysis_CVPR_2022_paper.pdf) [[Code]](https://monai.io/research/swin-unetr)
-- [[paper]]() [[Code]]()
-- [[paper]]() [[Code]]()
-- [[paper]]() [[Code]]()
-- [[paper]]() [[Code]]()
+
 **2021**
 - [Medical Image Analysis] Models Genesis. [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841520302048) [[Code]](https://github.com/MrGiovanni/ModelsGenesis)
 - MoCo Pretraining Improves Representation and Transferability of Chest X-ray Models. [[paper]](https://proceedings.mlr.press/v143/sowrirajan21a.html)
-- [[paper]]() [[Code]]()
-- [[paper]]() [[Code]]()
-- [[paper]]() [[Code]]()
+
 **2020**
 - [MICCAI] Comparing to Learn: Surpassing ImageNet Pretraining on Radiographs by Comparing Image Representations. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_39) [[Code]](https://github.com/funnyzhou/C2L_MICCAI2020)
-- [[paper]]() [[Code]]()
+
 **2019**
-- [arXiv] Med3D: Transfer Learning for 3D Medical Image Analysis. [[paper]](https://arxiv.org/pdf/1904.00625.pdf) [[Code]](https://github.com/Tencent/MedicalNet)  
-- [[paper]]() [[Code]]()
-- [[paper]]() [[Code]]()
+- [arXiv] Med3D: Transfer Learning for 3D Medical Image Analysis. [[paper]](https://arxiv.org/pdf/1904.00625.pdf) [[Code]](https://github.com/Tencent/MedicalNet)
+
+
 ## BFM methods
 **2024**
   - [Nucleic Acids Research] Multiple sequence alignment-based RNA language model and its application to structural inference. [[Paper]](https://academic.oup.com/nar/article/52/1/e3/7369930), [[Code]](https://github.com/yikunpku/RNA-MSM)
