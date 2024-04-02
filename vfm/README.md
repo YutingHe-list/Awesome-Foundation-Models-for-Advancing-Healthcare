@@ -174,20 +174,20 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 |[  Retinal OCT-C8 ](https://ieeexplore.ieee.org/iel7/9740652/9740653/09740985.pdf)| 2D OCT	 | 24,000 volumes	 |  Classification |[*](https://www.kaggle.com/datasets/obulisainaren/retinal-oct-c8)|
 |[ Ultrasound Nerve Segmentation  ](https://kaggle.com/competitions/ultrasound-nerve-segmentation)| US	 | 11,143 images	 |  Segmentation |[*](https://www.kaggle.com/c/ultrasound-nerve-segmentation/data)|
 |[ Fetal Planes  ](https://www.nature.com/articles/s41598-020-67076-5)| US	 |12,400 images		 |  Classification |[*](https://zenodo.org/records/3904280)|
-|[  EchoNet-LVH ]()| US	 | 12,000 videos |  Detection, Clinical study |[*](https://echonet.github.io/lvh/)|
-|[ EchoNet-Dynamic  ]()| US	 | 10,030 videos |  Function assessment |[*](https://echonet.github.io/dynamic/index.html)|
-|[ AIROGS  ]()| CFP	 |113,893 images	|  Classification |[*](https://airogs.grand-challenge.org/)|
-|[ ISIC 2020  ]()| Dermoscopy	 | 33,126 images	 |  Classification |[*](https://challenge2020.isic-archive.com/)|
-|[ LC25000  ]()| Pathology	 | 25,000 images	 |  Classification |[*](https://github.com/tampapath/lung_colon_image_set)|
-|[ DeepLIIF  ]()| Pathology	 | 1,667 WSIs	 |  Classification |[*](https://deepliif.org/)|
-|[ PAIP  ]()| Pathology	 | 2,457 WSIs	 |  Segmentation |[*](https://www.drivendata.org/competitions/67/competition-cervicalbiopsy/page/254/)|
-|[TissueNet]()| Pathology	 | 1,016 WSIs |  Classification |[*]()|
-|[NLST]()| 3D CT, Pathology	 | 26,254 CT, 451 WSIs |  Clinical  study |[*](https://www.cancerimagingarchive.net/collection/nlst/)|
-|[CRC]()| Pathology	 | 100k images	 |  Classification |[*](https://zenodo.org/records/1214456)|
-|[MURA]()| X-ray	 | 40,895 images |  Detection |[*](https://stanfordmlgroup.github.io/competitions/mura/)|
-|[ChestX-ray14]()| X-ray	 |  112,120 images|  Detection |[*](https://paperswithcode.com/dataset/chestx-ray14)|
-|[SNOW]()| Synthetic pathology	 |20K image tiles|  Segmentation |[*](https://zenodo.org/records/6633721#.YuE33OzMJhE)|
-|[TCGA]()| Multimodal images, Clinical data	 | - |  Clinical study |[*](https://portal.gdc.cancer.gov)|
+|[  EchoNet-LVH ](https://jamanetwork.com/journals/jamacardiology/fullarticle/2789370)| US	 | 12,000 videos |  Detection, Clinical study |[*](https://echonet.github.io/lvh/)|
+|[ EchoNet-Dynamic  ](https://www.nature.com/articles/s41586-020-2145-8)| US	 | 10,030 videos |  Function assessment |[*](https://echonet.github.io/dynamic/index.html)|
+|[ AIROGS  ](https://ieeexplore.ieee.org/iel7/42/4359023/10253652.pdf)| CFP	 |113,893 images	|  Classification |[*](https://airogs.grand-challenge.org/)|
+|[ ISIC 2020  ](https://www.nature.com/articles/s41597-021-00815-z)| Dermoscopy	 | 33,126 images	 |  Classification |[*](https://challenge2020.isic-archive.com/)|
+|[ LC25000  ](https://arxiv.org/pdf/1912.12142)| Pathology	 | 25,000 images	 |  Classification |[*](https://github.com/tampapath/lung_colon_image_set)|
+|[ DeepLIIF  ](https://www.nature.com/articles/s42256-022-00471-x)| Pathology	 | 1,667 WSIs	 |  Classification |[*](https://deepliif.org/)|
+|[ PAIP  ](https://www.sciencedirect.com/science/article/pii/S1361841520302188)| Pathology	 | 2,457 WSIs	 |  Segmentation |[*](https://paip2019.grand-challenge.org/)|
+|[TissueNet](https://www.nature.com/articles/s41587-021-01094-0)| Pathology	 | 1,016 WSIs |  Classification |[*](https://www.drivendata.org/competitions/67/competition-cervicalbiopsy/page/254/)|
+|[NLST](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3009383/)| 3D CT, Pathology	 | 26,254 CT, 451 WSIs |  Clinical  study |[*](https://www.cancerimagingarchive.net/collection/nlst/)|
+|[CRC](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002730)| Pathology	 | 100k images	 |  Classification |[*](https://zenodo.org/records/1214456)|
+|[MURA](https://openreview.net/forum?id=r1Q98pjiG)| X-ray	 | 40,895 images |  Detection |[*](https://stanfordmlgroup.github.io/competitions/mura/)|
+|[ChestX-ray14](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_ChestX-ray8_Hospital-Scale_Chest_CVPR_2017_paper.pdf)| X-ray	 |  112,120 images|  Detection |[*](https://paperswithcode.com/dataset/chestx-ray14)|
+|[SNOW](https://www.nature.com/articles/s41597-023-02125-y)| Synthetic pathology	 |20K image tiles|  Segmentation |[*](https://zenodo.org/records/6633721#.YuE33OzMJhE)|
+|[TCGA](https://www.nature.com/articles/ng.2764.)| Multimodal images, Clinical data	 | - |  Clinical study |[*](https://portal.gdc.cancer.gov)|
 |[CPTAC]()| Multimodal images, Clinical data	 | - |  Clinical study |[*](https://pdc.cancer.gov/pdc/browse)|
 
 
