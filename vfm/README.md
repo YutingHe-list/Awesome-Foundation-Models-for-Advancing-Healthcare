@@ -102,35 +102,26 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - [arXiv] MedLSAM: Localize and Segment Anything Model for 3D Medical Images. [[paper]](https://arxiv.org/pdf/2306.14752) [[Code]](https://github.com/openmedlab/MedLSAM)
 - [arXiv] nnSAM: Plug-and-play Segment Anything Model Improves nnUNet Performance. [[paper]](https://arxiv.org/pdf/2309.16967) [[Code]](https://github.com/Kent0n-Li/Medical-Image-Segmentation)
 - [arXiv] EviPrompt: A Training-Free Evidential Prompt Generation Method for Segment Anything Model in Medical Images. [[paper]](https://arxiv.org/pdf/2311.06400) 
-- [arXiv] [[paper]]() [[Code]]()
-- [arXiv] [[paper]]() [[Code]]()
-- [arXiv] [[paper]]() [[Code]]()
-- [arXiv] [[paper]]() [[Code]]()
-- [arXiv] [[paper]]() [[Code]]()
-- [arXiv] [[paper]]() [[Code]]()
+- [arXiv] One-shot localization and segmentation of medical images with foundation models. [[paper]](https://arxiv.org/pdf/2310.18642) 
+- [arXiv] Samm (segment any medical model): A 3d slicer integration to sam. [[paper]](https://arxiv.org/html/2304.05622v4) [[Code]](https://github.com/bingogome/samm)
+- [arXiv] Task-Driven Prompt Evolution for Foundation Models.[[paper]](https://dl.acm.org/doi/abs/10.1007/978-3-031-47401-9_25) 
 
 **2022**
 - [Machine Learning with Applications] Self Supervised Contrastive Learning for Digital Histopathology. [[paper]](https://www.sciencedirect.com/science/article/pii/S2666827021000992) [[Code]](https://github.com/ozanciga/self-supervised-histopathology)
 - [Medical Image Analysis] Transformer-Based Unsupervised Contrastive Learning for Histopathological Image Classification. [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841522002043) [[Code]](https://github.com/Xiyue-Wang/TransPath)
 - [arXiv] Self-supervised Learning from 100 Million Medical Images. [[paper]](https://arxiv.org/pdf/2201.01283.pdf) 
 - [CVPR] Self-supervised pre-training of swin transformers for 3d medical image analysis.[[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Tang_Self-Supervised_Pre-Training_of_Swin_Transformers_for_3D_Medical_Image_Analysis_CVPR_2022_paper.pdf) [[Code]](https://monai.io/research/swin-unetr)
-- [[paper]]() [[Code]]()
-- [[paper]]() [[Code]]()
-- [[paper]]() [[Code]]()
-- [[paper]]() [[Code]]()
+
 **2021**
 - [Medical Image Analysis] Models Genesis. [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841520302048) [[Code]](https://github.com/MrGiovanni/ModelsGenesis)
 - MoCo Pretraining Improves Representation and Transferability of Chest X-ray Models. [[paper]](https://proceedings.mlr.press/v143/sowrirajan21a.html)
-- [[paper]]() [[Code]]()
-- [[paper]]() [[Code]]()
-- [[paper]]() [[Code]]()
+
 **2020**
 - [MICCAI] Comparing to Learn: Surpassing ImageNet Pretraining on Radiographs by Comparing Image Representations. [[paper]](https://link.springer.com/chapter/10.1007/978-3-030-59710-8_39) [[Code]](https://github.com/funnyzhou/C2L_MICCAI2020)
-- [[paper]]() [[Code]]()
+
 **2019**
 - [arXiv] Med3D: Transfer Learning for 3D Medical Image Analysis. [[paper]](https://arxiv.org/pdf/1904.00625.pdf) [[Code]](https://github.com/Tencent/MedicalNet)  
-- [[paper]]() [[Code]]()
-- [[paper]]() [[Code]]()
+
 
 
       
