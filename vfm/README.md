@@ -154,7 +154,8 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 |[CholecT45](https://arxiv.org/pdf/2204.05235.pdf)| Endoscopy |  45 videos (90489 frames)  |  Segmentation, Detection |[*](https://github.com/CAMMA-public/cholect45)|
 |[DeepLesion](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-5/issue-3/036501/DeepLesion--automated-mining-of-large-scale-lesion-annotations-and/10.1117/1.JMI.5.3.036501.full)| CT slices (2D) | 32,735 images |  Segmentation, Registration |[*](nihcc.app.box.com)|
 |[LIDC-IDRI](https://aapm.onlinelibrary.wiley.com/doi/full/10.1118/1.3528204)| 3D CT	 | 1,018 volumes	 |  Segmentation |[*](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=1966254)|
-|[  TotalSegmentator ]()| 3D CT	 | 1,228 volumes	 |  Segmentation |[*](https://pubs.rsna.org/doi/10.1148/ryai.230024)|
+|[  TotalSegmentator ]()| 3D CT	 | 1,204 volumes	 |  Segmentation |[*](https://doi.org/10.5281/zenodo.6802613)|
+|[  TotalSegmentatorv2 ](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10546353/)| 3D CT	 | 1,228 volumes	 |  Segmentation |[*](https://doi.org/10.5281/zenodo.6802613)|
 |[AutoPET   ]()|3D CT, 3D PET |  1,214 PET-CT pairs	|  Segmentation |[*](https://wiki.cancerimagingarchive.net/pages/viewpage.action?pageId=93258287)|
 |[  ULS ]()| 3D CT	 |  38,842 volumes	|  Segmentation |[*](https://uls23.grand-challenge.org/)|
 |[ FLARE 2022  ]()| 3D CT	 | 2,300 volumes	 |  Segmentation |[*](https://flare22.grand-challenge.org/Dataset/)|
