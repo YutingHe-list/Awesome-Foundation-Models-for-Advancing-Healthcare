@@ -4,7 +4,7 @@
 
 This repo is a collection of AWESOME things about Foundation models in healthcare, including language foundation models (LFMs), vision foundation models (VFMs), bioinformatics foundation models (BFMs), and multimodal foundation models (MFMs). Feel free to star and fork.
 
-<p align="center"><img width="70%" src="fig/main.png" /></p>
+<p align="center"><img width="70%" src="figs/main.png" /></p>
 # Contents
 - [Awesome-Foundation-Models-for-Advancing-Healthcare](#Awesome-Foundation-Models-for-Advancing-Healthcare)
 - [Related Survery](#related-survey)
