@@ -103,8 +103,6 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 - [NPJ Digit. Med.] ClinicalBERT: A hybrid learning model for natural language inference in healthcare using BERT. [[Paper]](https://www.nature.com/articles/s41746-022-00742-2) [[Code]](https://github.com/EmilyAlsentzer/clinicalBERT)
 
 ## VFM methods
-## VFM methods
-
 
 **2024**
 
