@@ -35,12 +35,14 @@ If you find this repository is useful for you, please cite our paper:
   - [BFM methods](#bfm-methods)
   - [MFM methods](#mfm-methods)
 - [Datasets](#datasets)
-- - [LFM data](#lfm-data)
+  - [LFM data](#lfm-data)
   - [VFM data](#vfm-data)
   - [BFM data](#bfm-data)
   - [MFM data](#mfm-data)
-- [Lectures and Tutorials](#lectures-and-tutorials)
 - [Other Resources](#other-resources)
+  - [Lectures and Tutorials](#lectures-and-tutorials)
+  - [Blogs](#blogs)
+  - [Related Awesome Repositories](#related-awesome-repositories)
 
 # Related Survey
 **2024**
@@ -464,15 +466,22 @@ If you find this repository is useful for you, please cite our paper:
 |[Duke Breast Cancer MRI](https://www.nature.com/articles/s41416-018-0185-8) |  Genomic, MRI images, Clinical data |  922 patients  |    Multimodal learning  |[*](https://sites.duke.edu/mazurowski/resources/breast-cancer-mri-dataset/)|
 |I-SPY2 |  MRI images, Clinical data |   719 patients  |    Multimodal learning  |[*](https://www.cancerimagingarchive.net/collection/ispy2/)|
 
-# Lectures and Tutorials
 
-- [Bioinformatics - Geneformer Tutorial (unofficial)](https://wang-lab.hkust.edu.hk/others/Tutorials/geneformer/readme.html)
 
 # Other Resources
-- [Stanford HAI Research] [How Foundation Models Can Advance AI in Healthcare](https://hai.stanford.edu/news/how-foundation-models-can-advance-ai-healthcare)
-- [Stanford HAI Research] [The Shaky Foundations of Foundation Models in Healthcare](https://hai.stanford.edu/news/shaky-foundations-foundation-models-healthcare)
-- [Related repository] [Awesome-Healthcare-Foundation-Models](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
-- [Related repository] [Awesome-Foundation-Models](https://github.com/uncbiag/Awesome-Foundation-Models/?tab=readme-ov-file#awesome-foundation-models)
+## Lectures and Tutorials
+
+- [Bioinformatics - Geneformer Tutorial (unofficial)](https://wang-lab.hkust.edu.hk/others/Tutorials/geneformer/readme.html)
+  
+## Blogs
+
+- [How Foundation Models Can Advance AI in Healthcare](https://hai.stanford.edu/news/how-foundation-models-can-advance-ai-healthcare)
+- [The Shaky Foundations of Foundation Models in Healthcare](https://hai.stanford.edu/news/shaky-foundations-foundation-models-healthcare)
+
+## Related Awesome Repositories
+
+- [Awesome-Healthcare-Foundation-Models](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
+- [Awesome-Foundation-Models](https://github.com/uncbiag/Awesome-Foundation-Models/?tab=readme-ov-file#awesome-foundation-models)
 
 
 
