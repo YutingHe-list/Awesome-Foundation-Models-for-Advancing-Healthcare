@@ -13,6 +13,15 @@ This repository provides the improment advicement of current healthcare foundati
 The Hong Kong University of Science and Technology <br/>
 <br/>
 
+If you find this repository is useful for you, please cite our paper:
+```
+@inproceedings{he2023geometric,
+  title={Foundation Model for Advancing Healthcare: Challenges, Opportunities and Future Directions},
+  author={He, Yuting and Huang, Fuxiang and Jiang, Xinrui and Nie, Yuxiang and Wang, Minghao and Wang, Jiguang and Chen, Hao},
+  booktitle={TBD},
+}
+```
+
 # Contents
 - [Awesome-Foundation-Models-for-Advancing-Healthcare](#Awesome-Foundation-Models-for-Advancing-Healthcare)
 - [Related Survery](#related-survey)
