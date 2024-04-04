@@ -6,6 +6,13 @@ This repo is a collection of AWESOME things about Foundation models in healthcar
 
 <p align="center"><img width="100%" src="figs/main.png" /></p>
 
+This repository provides the improment advicement of current healthcare foundation models based on the following paper:
+
+**[Foundation Model for Advancing Healthcare: Challenges, Opportunities and Future Directions](https://arxiv.org/abs/2303.00874)** <br/> 
+[Yuting He](https://yutinghe-list.github.io/), [Fuxiang Huang](https://scholar.google.com/citations?hl=zh-CN&user=4BvQU00AAAAJ), [Xinrui Jiang](https://scholar.google.com/citations?hl=zh-CN&user=OYrbv2oAAAAJ), [Yuxiang Nie](https://jerrrynie.github.io/), [Minghao Wang](https://bmwang.cn/),  [Boyu Wang](https://sites.google.com/site/borriewang/), [Jiguang Wang](https://wang-lab.hkust.edu.hk/people/cv_html/Jiguang_wang_cv.html), [Hao Chen](https://cse.hkust.edu.hk/~jhc/)<br/>
+The Hong Kong University of Science and Technology <br/>
+<br/>
+
 # Contents
 - [Awesome-Foundation-Models-for-Advancing-Healthcare](#Awesome-Foundation-Models-for-Advancing-Healthcare)
 - [Related Survery](#related-survey)
