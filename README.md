@@ -453,6 +453,13 @@ If you find this repository is useful for you, please cite our paper:
 |[PTB-XL](https://www.nature.com/articles/s41597-020-0495-6.) |  ECG, Medical report  | 21K records, 21K texts  |   Vision-Language learning |[*](https://physionet.org/content/ptb-xl/1.0.1/)|
 |[ROCO](https://link.springer.com/chapter/10.1007/978-3-030-01364-6_20) | Multimodal, Captions  | 87K images, 87K texts  |   Vision-Language learning |[*](https://github.com/razorx89/roco-dataset)|
 |[MedICaT](https://arxiv.org/abs/2010.06000) | Multimodal, Captions  | 217K images, 217K texts  |   Vision-Language learning |[*](https://github.com/allenai/medicat)|
+|[PMC-OA](https://arxiv.org/pdf/2303.07240.pdf) | Multimodal, Captions  | 1.6M images, 1.6M texts  |   Vision-Language learning |[*](https://huggingface.co/datasets/axiong/pmc_oa)|
+|[ChiMed-VL](https://arxiv.org/pdf/2310.17956v2.pdf) | Multimodal, Medical report  | 580K images, 580K texts  |   Vision-Language learning |[*](https://github.com/williamliujl/Qilin-Med-VL?tab=readme-ov-file)|
+|[PMC-VQA](https://arxiv.org/abs/2305.10415) | Multimodal, QA  | 149K images, 227K QA pairs  |   VQA |[*](https://huggingface.co/datasets/xmcmic/PMC-VQA)|
+|[SwissProtCLAP](https://arxiv.org/abs/2302.04611) |  Protein Sequence, Text |  441K protein sequence, 441K texts  |    Protein-Language learning |[*](https://huggingface.co/datasets/chao1224/ProteinDT/tree/main)|
+|[Duke Breast Cancer MRI](https://www.nature.com/articles/s41416-018-0185-8) |  Genomic, MRI images, Clinical data |  922 patients  |    Multimodal learning  |[*](https://sites.duke.edu/mazurowski/resources/breast-cancer-mri-dataset/)|
+|I-SPY2 |  MRI images, Clinical data |   719 patients  |    Multimodal learning  |[*](https://www.cancerimagingarchive.net/collection/ispy2/)|
+
 # Lectures and Tutorials
 
 [Bioinformatics - Geneformer Tutorial (unofficial)](https://wang-lab.hkust.edu.hk/others/Tutorials/geneformer/readme.html)
