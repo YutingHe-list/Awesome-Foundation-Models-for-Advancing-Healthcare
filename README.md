@@ -35,10 +35,11 @@ If you find this repository is useful for you, please cite our paper:
   - [BFM methods](#bfm-methods)
   - [MFM methods](#mfm-methods)
 - [Datasets](#datasets)
-  - [LFM data](#lfm-data)
-  - [VFM data](#vfm-data)
-  - [BFM data](#bfm-data)
-  - [MFM data](#mfm-data)
+  - [LFM datasets](#lfm-datasets)
+  - [VFM datasets](#vfm-datasets)
+  - [BFM datasets](#bfm-datasets)
+  - [MFM datasets](#mfm-datasets)
+  - [Large-scale Comprehensive Databases](#large-scale-comprehensive-databases)
 - [Other Resources](#other-resources)
   - [Lectures and Tutorials](#lectures-and-tutorials)
   - [Blogs](#blogs)
@@ -210,14 +211,10 @@ If you find this repository is useful for you, please cite our paper:
 
 **2019**
 - [arXiv] Med3D: Transfer Learning for 3D Medical Image Analysis. [[paper]](https://arxiv.org/pdf/1904.00625.pdf) [[Code]](https://github.com/Tencent/MedicalNet)  
-
-
-
 ## BFM methods
 **2024**
   - [Nucleic Acids Research] Multiple sequence alignment-based RNA language model and its application to structural inference. [[Paper]](https://academic.oup.com/nar/article/52/1/e3/7369930), [[Code]](https://github.com/yikunpku/RNA-MSM)
   - [Nature Methods] scGPT: toward building a foundation model for single-cell multi-omics using generative AI. [[Paper]](https://www.nature.com/articles/s41592-024-02201-0), [[Code]](https://github.com/bowang-lab/scGPT)
-
 
 **2023**
   - [arXiv] DNAGPT: A Generalized Pre-trained Tool for Versatile DNA Sequence Analysis Tasks. [[Paper]](https://arxiv.org/abs/2307.05628), [[Code]](https://github.com/TencentAILabHealthcare/DNAGPT)
@@ -234,9 +231,7 @@ If you find this repository is useful for you, please cite our paper:
   - [Science] Evolutionary-scale prediction of atomic-level protein structure with a language model. [[Paper]](https://www.science.org/doi/10.1126/science.ade2574), [[Code]](https://github.com/facebookresearch/esm)
   - [bioRxiv] Universal Cell Embeddings: A Foundation Model for Cell Biology. [[Paper]](https://www.biorxiv.org/content/10.1101/2023.11.28.568918v1), [[Code]](https://github.com/snap-stanford/UCE)
   - [bioRxiv] Large Scale Foundation Model on Single-cell Transcriptomics. [[Paper]](https://www.biorxiv.org/content/10.1101/2023.05.29.542705v4), [[Code]](https://github.com/biomap-research/scFoundation)
-
   - [arXiv] Large-Scale Cell Representation Learning via Divide-and-Conquer Contrastive Learning. [[Paper]](https://arxiv.org/abs/2306.04371), [[Code]](https://github.com/PharMolix/OpenBioMed)
-
   - [bioRxiv] CodonBERT: Large Language Models for mRNA design and optimization. [[Paper]](https://www.biorxiv.org/content/10.1101/2023.09.09.556981v2), [[Code]](https://github.com/Sanofi-Public/CodonBERT)
   - [bioRxiv] xTrimoPGLM: Unified 100B-Scale Pre-trained Transformer for Deciphering the Language of Protein. [[Paper]](https://www.biorxiv.org/content/10.1101/2023.07.05.547496v4)
   - [bioRxiv] GenePT: A Simple But Effective Foundation Model for Genes and Cells Built From ChatGPT. [[Paper]](https://www.biorxiv.org/content/10.1101/2023.10.16.562533v2), [[Code]](https://github.com/yiqunchen/GenePT)
@@ -248,7 +243,6 @@ If you find this repository is useful for you, please cite our paper:
   - [NAR Genomics & Bioinformatics] Informative RNA base embedding for RNA structural alignment and clustering by deep representation learning. [[Paper]](https://academic.oup.com/nargab/article/4/1/lqac012/6534363), [[Code]](https://github.com/mana438/RNABERT)
   - [Nature Biotechnology] Single-sequence protein structure prediction using language models and deep learning. [[Paper]](https://www.nature.com/articles/s41587-022-01432-w), [[Code]](https://github.com/aqlaboratory/rgn2)
 
-
 **2021**
   - [Bioinformatics] DNABERT: pre-trained Bidirectional Encoder Representations from Transformers model for DNA-language in genome. [[Paper]](https://academic.oup.com/bioinformatics/article/37/15/2112/6128680), [[Code]](https://github.com/jerryji1993/DNABERT)
   - [IEEE TPAMI] ProtTrans: Toward Understanding the Language of Life Through Self-Supervised Learning. [[Paper]](https://ieeexplore.ieee.org/document/9477085), [[Code]](https://github.com/agemagician/ProtTrans)
@@ -256,8 +250,6 @@ If you find this repository is useful for you, please cite our paper:
   - [PNAS] Biological structure and function emerge from scaling unsupervised learning to 250 million protein sequences. [[Paper]](https://www.pnas.org/doi/10.1073/pnas.2016239118), [[Code]](https://github.com/facebookresearch/esm)
   - [Nature] Highly accurate protein structure prediction with AlphaFold. [[Paper]](https://www.nature.com/articles/s41586-021-03819-2), [[Code]](https://github.com/google-deepmind/alphafold)
   - [arXiv] Multi-modal Self-supervised Pre-training for Regulatory Genome Across Cell Types. [[Paper]](https://arxiv.org/abs/2110.05231), [[Code]](https://github.com/ZovcIfzm/GeneBERT)
-
-
 
 ## MFM methods
 **2024**
@@ -268,7 +260,6 @@ If you find this repository is useful for you, please cite our paper:
 - [NeurIPS] LLaVA-Med: Training a Large Language-and-Vision Assistant for Biomedicine in One Day. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/5abcdf8ecdcacba028c6662789194572-Paper-Datasets_and_Benchmarks.pdf) [[Code]](https://github.com/microsoft/LLaVA-Med)
 - [AAAI] PathAsst: Generative Foundation AI Assistant for Pathology. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28308) [[Code]](https://github.com/bioinfomagic/Generative-Foundation-AI-Assistant-for-Pathology/tree/main)
 - [WACV] I-AI: A Controllable & Interpretable AI System for Decoding Radiologists’ Intense Focus for Accurate CXR Diagnoses. [[Paper]](https://arxiv.org/abs/2309.13550) [[Code]](https://github.com/UARK-AICV/IAI)
-
 
 **2023**
 - [ICLR] Advancing radiograph representation learning with masked record modeling. [[Paper]](https://openreview.net/forum?id=w-x7U26GM7j) [[Code]](https://github.com/RL4M/MRM-pytorch)
@@ -327,14 +318,8 @@ If you find this repository is useful for you, please cite our paper:
 - [arXiv] MMBERT: Multimodal BERT Pretraining for Improved Medical VQA. [[Paper]](https://arxiv.org/abs/2104.01394) [[Code]](https://github.com/VirajBagal/MMBERT)
 - [ICCV] GLoRIA: A Multimodal Global-Local Representation Learning Framework for Label-Efficient Medical Image Recognition. [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Huang_GLoRIA_A_Multimodal_Global-Local_Representation_Learning_Framework_for_Label-Efficient_Medical_ICCV_2021_paper.html) [[Code]](https://github.com/marshuang80/gloria)
 
-
-
-
-
-
-
 # Datasets
-## LFM data
+## LFM datasets
 |                           Dataset  Name                               | Text Types  |            Scale           |    Task    |                       Link                             |
 | :-------------------------------------------------------------------: | :-------: | :------------------------: | :--------: | :----------------------------------------------------: |
 |[PubMed](https://pubmed.ncbi.nlm.nih.gov/download/) | Literature | 18B tokens |  Language modeling |[*](https://pubmed.ncbi.nlm.nih.gov/download/)|
@@ -371,7 +356,8 @@ If you find this repository is useful for you, please cite our paper:
 |[MultiMedQA](https://arxiv.org/abs/2305.09617)| Dialogue | 193K instances |  Dialogue | - |
 |[BiMed1.3M](https://arxiv.org/abs/2402.13253)| Dialogue | 250K instances |  Dialogue |[*](https://github.com/mbzuai-oryx/BiMediX)|
 |[OncoGPT](https://arxiv.org/abs/2402.13253)| Dialogue | 180K instances |  Dialogue |[*](https://github.com/OncoGPT1)|
-## VFM data
+
+## VFM datasets
 |                           Dataset  Name                               | Modality  |            Scale           |    Task    |                       Link                             |
 | :-------------------------------------------------------------------: | :-------: | :------------------------: | :--------: | :----------------------------------------------------: |
 |[LIMUC](https://academic.oup.com/ibdjournal/article/29/9/1431/6830946) | Endoscopy | 1043 videos (11276 frames) |  Detection |[*](https://zenodo.org/records/5827695#.Yi8GJ3pByUk)|
@@ -419,9 +405,7 @@ If you find this repository is useful for you, please cite our paper:
 |[TCGA](https://www.nature.com/articles/ng.2764.)| Multimodal images, Clinical data	 | - |  Clinical study |[*](https://portal.gdc.cancer.gov)|
 |[CPTAC]()| Multimodal images, Clinical data	 | - |  Clinical study |[*](https://pdc.cancer.gov/pdc/browse)|
 
-
-
-## BFM data
+## BFM datasets
 |                           Dataset  Name                               | Modality  |            Scale           |    Task    |                       Link                             |
 | :-------------------------------------------------------------------: | :-------: | :------------------------: | :--------: | :----------------------------------------------------: |
 |[CellxGene Corpus]([https://academic.oup.com/ibdjournal/article/29/9/1431/6830946](https://www.biorxiv.org/content/10.1101/2023.10.30.563174v1)) | scRNA-seq | over 72M scRNA-seq data |  Single cell omics study |[*](https://cellxgene.cziscience.com)|
@@ -444,8 +428,7 @@ If you find this repository is useful for you, please cite our paper:
 |[CGGA](https://www.sciencedirect.com/science/article/pii/S1672022921000450)|  |  |  Bioinformatics study |[*](http://www.cgga.org.cn)|
 |[UK Biobank](https://www.nature.com/articles/s41586-018-0579-z)|  |  |  Bioinformatics study |[*](https://www.ukbiobank.ac.uk)|
 
-
-## MFM data
+## MFM datasets
 |                           Dataset  Name                               | Modalities  |            Scale           |    Task    |                       Link                             |
 | :-------------------------------------------------------------------: | :-------: | :------------------------: | :--------: | :----------------------------------------------------: |
 |[MIMIC-CXR](https://www.nature.com/articles/s41597-019-0322-0) | X-ray, Medical report | 377K images, 227K texts |  Vision-Language Learning |[*](https://physionet.org/content/mimic-cxr/2.0.0/)|
@@ -466,6 +449,14 @@ If you find this repository is useful for you, please cite our paper:
 |[Duke Breast Cancer MRI](https://www.nature.com/articles/s41416-018-0185-8) |  Genomic, MRI images, Clinical data |  922 patients  |    Multimodal learning  |[*](https://sites.duke.edu/mazurowski/resources/breast-cancer-mri-dataset/)|
 |I-SPY2 |  MRI images, Clinical data |   719 patients  |    Multimodal learning  |[*](https://www.cancerimagingarchive.net/collection/ispy2/)|
 
+## Large-scale Comprehensive Databases
+|                           Database  Name                               | Discription   |                       Link                             |
+| :-------------------------------------------------------------------: | :-------: | :----------------------------------------------------: |
+|[CGGA](https://www.sciencedirect.com/science/article/pii/S1672022921000450?via%3Dihub) |Chinese Glioma Genome Atlas (CGGA) database contains clinical and sequencing data of over 2,000 brain tumor samples from Chinese cohorts.|[*](http://www.cgga.org.cn/)|
+
+|[UK Biobank](https://www.nature.com/articles/s41586-018-0579-z.) |UK Biobank is a large-scale biomedical database and research resource containing de-identified genetic, lifestyle and health information and biological samples from half a million UK participants.|[*](https://www.ukbiobank.ac.uk/)|
+|[TCGA](https://www.nature.com/articles/ng.2764.) |The Cancer Genome Atlas program (TCGA) molecularly characterizes over 20,000 primary cancer, matches normal samples spanning 33 cancer types, and generates over 2.5 petabytes of genomic, epigenomic, transcriptomic, and proteomic data.|[*](https://www.cancer.gov/ccg/research/genome-sequencing/tcga)|
+|[TCIA](https://link.springer.com/article/10.1007/s10278-013-9622-7) | The Cancer Imaging Archive (TCIA) is a service which de-identifies and hosts a large publicly available archive of medical images of cancer.|[*](https://www.cancerimagingarchive.net/)|
 
 
 # Other Resources
@@ -480,8 +471,8 @@ If you find this repository is useful for you, please cite our paper:
 
 ## Related Awesome Repositories
 
-- [Awesome-Healthcare-Foundation-Models](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models) [![Star](https://img.shields.io/github/stars/Jianing-Qiu/Awesome-Healthcare-Foundation-Models.svg?style=social&label=Star)](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
-- [Awesome-Foundation-Models](https://github.com/uncbiag/Awesome-Foundation-Models/?tab=readme-ov-file#awesome-foundation-models)[![Star](https://github.com/uncbiag/Awesome-Foundation-Models.svg?style=social&label=Star)](https://github.com/uncbiag/Awesome-Foundation-Models/?tab=readme-ov-file#awesome-foundation-models)
+- [Awesome-Healthcare-Foundation-Models](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
+- [Awesome-Foundation-Models](https://github.com/uncbiag/Awesome-Foundation-Models/?tab=readme-ov-file#awesome-foundation-models)
 
 
 
