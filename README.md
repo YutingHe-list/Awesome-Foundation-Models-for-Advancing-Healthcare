@@ -466,11 +466,13 @@ If you find this repository is useful for you, please cite our paper:
 
 # Lectures and Tutorials
 
-[Bioinformatics - Geneformer Tutorial (unofficial)](https://wang-lab.hkust.edu.hk/others/Tutorials/geneformer/readme.html)
+- [Bioinformatics - Geneformer Tutorial (unofficial)](https://wang-lab.hkust.edu.hk/others/Tutorials/geneformer/readme.html)
 
 # Other Resources
-[Stanford HAI Research] [How Foundation Models Can Advance AI in Healthcare](https://hai.stanford.edu/news/how-foundation-models-can-advance-ai-healthcare)
-[Repository] [Awesome-Healthcare-Foundation-Models](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
+- [Stanford HAI Research] [How Foundation Models Can Advance AI in Healthcare](https://hai.stanford.edu/news/how-foundation-models-can-advance-ai-healthcare)
+- [Stanford HAI Research] [The Shaky Foundations of Foundation Models in Healthcare](https://hai.stanford.edu/news/shaky-foundations-foundation-models-healthcare)
+- [Related repository] [Awesome-Healthcare-Foundation-Models](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
+- [Related repository] [Awesome-Foundation-Models](https://github.com/uncbiag/Awesome-Foundation-Models/?tab=readme-ov-file#awesome-foundation-models)
 
 
 
