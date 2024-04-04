@@ -480,8 +480,8 @@ If you find this repository is useful for you, please cite our paper:
 
 ## Related Awesome Repositories
 
-- [Awesome-Healthcare-Foundation-Models](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)[![Star](https://img.shields.io/github/stars/Jianing-Qiu/Awesome-Healthcare-Foundation-Models.svg?style=social&label=Star)](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
-- [Awesome-Foundation-Models](https://github.com/uncbiag/Awesome-Foundation-Models/?tab=readme-ov-file#awesome-foundation-models)
+- [Awesome-Healthcare-Foundation-Models](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models) [![Star](https://img.shields.io/github/stars/Jianing-Qiu/Awesome-Healthcare-Foundation-Models.svg?style=social&label=Star)](https://github.com/Jianing-Qiu/Awesome-Healthcare-Foundation-Models)
+- [Awesome-Foundation-Models](https://github.com/uncbiag/Awesome-Foundation-Models/?tab=readme-ov-file#awesome-foundation-models)[![Star](https://github.com/uncbiag/Awesome-Foundation-Models.svg?style=social&label=Star)](https://github.com/uncbiag/Awesome-Foundation-Models/?tab=readme-ov-file#awesome-foundation-models)
 
 
 
