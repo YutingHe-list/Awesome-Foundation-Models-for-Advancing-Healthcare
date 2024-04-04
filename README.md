@@ -13,7 +13,7 @@ This repository is a collection of AWESOME things about Foundation models in hea
 This repository provides the improment advicement of current healthcare foundation models based on the following paper:
 
 **[Foundation Model for Advancing Healthcare: Challenges, Opportunities and Future Directions](https://arxiv.org/abs/***)** <br/> 
-[Yuting He](https://yutinghe-list.github.io/), [Fuxiang Huang](https://scholar.google.com/citations?hl=zh-CN&user=4BvQU00AAAAJ), [Xinrui Jiang](https://scholar.google.com/citations?hl=zh-CN&user=OYrbv2oAAAAJ), [Yuxiang Nie](https://jerrrynie.github.io/), [Minghao Wang](https://bmwang.cn/),  [Boyu Wang](https://sites.google.com/site/borriewang/), [Jiguang Wang](https://wang-lab.hkust.edu.hk/people/cv_html/Jiguang_wang_cv.html), [Hao Chen](https://cse.hkust.edu.hk/~jhc/)<br/>
+[Yuting He](https://yutinghe-list.github.io/), [Fuxiang Huang](https://scholar.google.com/citations?hl=zh-CN&user=4BvQU00AAAAJ), [Xinrui Jiang](https://scholar.google.com/citations?hl=zh-CN&user=OYrbv2oAAAAJ), [Yuxiang Nie](https://jerrrynie.github.io/), [Minghao Wang](https://bmwang.cn/), [Jiguang Wang](https://wang-lab.hkust.edu.hk/people/cv_html/Jiguang_wang_cv.html), [Hao Chen](https://cse.hkust.edu.hk/~jhc/)<br/>
 The Hong Kong University of Science and Technology <br/>
 <br/>
 
