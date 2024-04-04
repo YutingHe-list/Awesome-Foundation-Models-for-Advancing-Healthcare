@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[NOTE]**If you have any questions, please don't worry to [contact us](Email:csyutingh@ust.hk).** 
+[NOTE]**If you have any questions, please don't worry to [contact us](email:csyutingh@ust.hk).** 
 
 Foundation model, which is pre-trained on broad data and is able to adapt to a wide range of tasks, is advancing healthcare. It promotes the development of healthcare artificial intelligence (AI) models, breaking the contradiction between limited AI models and diverse healthcare practices. Much more widespread healthcare scenarios will benefit from the development of a healthcare foundation model (HFM), improving their advanced intelligent healthcare services.
 
