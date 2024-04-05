@@ -19,10 +19,13 @@ The Hong Kong University of Science and Technology <br/>
 
 If you find this repository is useful for you, please cite our paper:
 ```
-@inproceedings{he2023geometric,
-  title={Foundation Model for Advancing Healthcare: Challenges, Opportunities and Future Directions},
-  author={He, Yuting and Huang, Fuxiang and Jiang, Xinrui and Nie, Yuxiang and Wang, Minghao and Wang, Jiguang and Chen, Hao},
-  booktitle={TBD},
+@misc{he2024foundation,
+      title={Foundation Model for Advancing Healthcare: Challenges, Opportunities, and Future Directions}, 
+      author={Yuting He and Fuxiang Huang and Xinrui Jiang and Yuxiang Nie and Minghao Wang and Jiguang Wang and Hao Chen},
+      year={2024},
+      eprint={2404.03264},
+      archivePrefix={arXiv},
+      primaryClass={cs.CY}
 }
 ```
 
