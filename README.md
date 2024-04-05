@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[NEWS] **Our survey [paper](https://arxiv.org/abs/2404.03264) has been relaesed.**
+[NEWS] **The related survey [paper](https://arxiv.org/abs/2404.03264) has been relaesed.**
 
 [NOTE] **If you have any questions, please don't worry to contact us (*<csyutingh@ust.hk>*).** 
 
