@@ -288,7 +288,7 @@ If you find this repository is useful for you, please cite our paper:
 - [MICCAI] Masked vision and language pre-training with unimodal and multimodal contrastive losses for medical visual question answering. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_36) [[Code]](https://github.com/pengfeiliHEU/MUMC)
 - [arXiv] T3d: Towards 3d medical image understanding through vision-language pre-training. [[Paper]](https://arxiv.org/abs/2312.01529)
 - [MICCAI] Gene-induced multimodal pre-training for imageomic classification. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-43987-2_49) [[Code]](https://github.com/DeepMed-Lab-ECNU/GIMP)
-- [arXiv] A text-guided protein design framework. [[Paper]](https://arxiv.org/abs/2302.04611)
+- [arXiv] A text-guided protein design framework. [[Paper]](https://arxiv.org/abs/2302.04611) [[Code]](https://github.com/chao1224/ProteinDT)
 - [Nature Medicine] A visual--language foundation model for pathology image analysis using medical Twitter. [[Paper]](https://www.nature.com/articles/s41591-023-02504-3) [[Code]](https://github.com/PathologyFoundation/plip)
 - [arXiv] Towards generalist biomedical ai. [[Paper]](https://arxiv.org/pdf/2307.14334) [[Code]](https://github.com/kyegomez/Med-PaLM)
 - [ML4H] Med-Flamingo: A multimodal medical few-shot learner. [[Paper]](https://proceedings.mlr.press/v225/moor23a.html) [[Code]](https://github.com/snap-stanford/med-flamingo)
