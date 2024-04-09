@@ -220,6 +220,10 @@ If you find this repository is useful for you, please cite our paper:
 **2024**
   - [Nucleic Acids Research] Multiple sequence alignment-based RNA language model and its application to structural inference. [[Paper]](https://academic.oup.com/nar/article/52/1/e3/7369930), [[Code]](https://github.com/yikunpku/RNA-MSM)
   - [Nature Methods] scGPT: toward building a foundation model for single-cell multi-omics using generative AI. [[Paper]](https://www.nature.com/articles/s41592-024-02201-0), [[Code]](https://github.com/bowang-lab/scGPT)
+  - [Nature Machine Intelligence] A 5’ UTR language model for decoding untranslated regions of mRNA and function predictions. [[Paper]](https://www.nature.com/articles/s42256-024-00823-9), [[Code]](https://github.com/a96123155/UTR-LM)
+
+
+
 
 **2023**
   - [arXiv] DNAGPT: A generalized pre-trained tool for versatile DNA sequence analysis tasks. [[Paper]](https://arxiv.org/abs/2307.05628), [[Code]](https://github.com/TencentAILabHealthcare/DNAGPT)
@@ -231,7 +235,6 @@ If you find this repository is useful for you, please cite our paper:
   - [bioRxiv] The nucleotide transformer: Building and evaluating robust foundation models for human genomics. [[Paper]](https://www.biorxiv.org/content/10.1101/2023.01.11.523679v1), [[Code]](https://github.com/instadeepai/nucleotide-transformer)
   - [bioRxiv] GENA-LM: A family of open-source foundational models for long DNA sequences. [[Paper]](https://www.biorxiv.org/content/10.1101/2023.06.12.544594v2), [[Code]](https://github.com/AIRI-Institute/GENA_LM)
   - [bioRxiv] Self-supervised learning on millions of pre-mRNA sequences improves sequence-based RNA splicing prediction. [[Paper]](https://www.biorxiv.org/content/10.1101/2023.01.31.526427v2), [[Code]](https://github.com/biomed-AI/SpliceBERT)
-  - [bioRxiv] A 5’ UTR language model for decoding untranslated regions of mRNA and function predictions. [[Paper]](https://www.biorxiv.org/content/10.1101/2023.10.11.561938v1.full), [[Code]](https://github.com/a96123155/UTR-LM)
   - [bioRxiv] Deciphering 3’ UTR mediated gene regulation using interpretable deep representation learning. [[Paper]](https://www.biorxiv.org/content/10.1101/2023.09.08.556883v1), [[Code]](https://github.com/yangyn533/3UTRBERT)
   - [Science] Evolutionary-scale prediction of atomic-level protein structure with a language model. [[Paper]](https://www.science.org/doi/10.1126/science.ade2574), [[Code]](https://github.com/facebookresearch/esm)
   - [bioRxiv] Universal cell embeddings: A foundation model for cell biology. [[Paper]](https://www.biorxiv.org/content/10.1101/2023.11.28.568918v1), [[Code]](https://github.com/snap-stanford/UCE)
