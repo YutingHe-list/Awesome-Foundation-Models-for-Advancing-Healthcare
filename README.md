@@ -268,6 +268,7 @@ If you find this repository is useful for you, please cite our paper:
 - [NeurIPS] LLaVA-Med: Training a large language-and-vision assistant for biomedicine in one day. [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2023/file/5abcdf8ecdcacba028c6662789194572-Paper-Datasets_and_Benchmarks.pdf) [[Code]](https://github.com/microsoft/LLaVA-Med)
 - [AAAI] PathAsst: Generative foundation AI assistant for pathology. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/28308) [[Code]](https://github.com/bioinfomagic/Generative-Foundation-AI-Assistant-for-Pathology/tree/main)
 - [WACV] I-AI: A controllable & interpretable AI system for decoding radiologists’ intense focus for accurate CXR diagnoses. [[Paper]](https://arxiv.org/abs/2309.13550) [[Code]](https://github.com/UARK-AICV/IAI)
+- [arXiv] M3D: Advancing 3D medical image analysis with multi-modal large language models. [[Paper]](https://arxiv.org/abs/2404.00578) [[Code]](https://github.com/BAAI-DCAI/M3D)
 
 **2023**
 - [ICLR] Advancing radiograph representation learning with masked record modeling. [[Paper]](https://openreview.net/forum?id=w-x7U26GM7j) [[Code]](https://github.com/RL4M/MRM-pytorch)
