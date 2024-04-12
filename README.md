@@ -225,7 +225,7 @@ If you find this repository is useful for you, please cite our paper:
   - [Nucleic Acids Research] Multiple sequence alignment-based RNA language model and its application to structural inference. [[Paper]](https://academic.oup.com/nar/article/52/1/e3/7369930), [[Code]](https://github.com/yikunpku/RNA-MSM)
   - [Nature Methods] scGPT: toward building a foundation model for single-cell multi-omics using generative AI. [[Paper]](https://www.nature.com/articles/s41592-024-02201-0), [[Code]](https://github.com/bowang-lab/scGPT)
   - [Nature Machine Intelligence] A 5’ UTR language model for decoding untranslated regions of mRNA and function predictions. [[Paper]](https://www.nature.com/articles/s42256-024-00823-9), [[Code]](https://github.com/a96123155/UTR-LM)
-
+ - [ICLR 2024] CellPLM: Pre-training of Cell Language Model Beyond Single Cells. [[Paper]](https://www.biorxiv.org/content/10.1101/2023.10.03.560734v1), [[Code]](https://github.com/OmicsML/CellPLM)
 **2023**
   - [arXiv] DNAGPT: A generalized pre-trained tool for versatile DNA sequence analysis tasks. [[Paper]](https://arxiv.org/abs/2307.05628), [[Code]](https://github.com/TencentAILabHealthcare/DNAGPT)
   - [arXiv] HyenaDNA: Long-range genomic sequence modeling at single nucleotide resolution. [[Paper]](https://arxiv.org/abs/2306.15794), [[Code]](https://github.com/HazyResearch/hyena-dna)
@@ -247,7 +247,7 @@ If you find this repository is useful for you, please cite our paper:
   - [bioRxiv] scELMo: Embeddings from language models are good learners for single-cell data analysis. [[Paper]](https://www.biorxiv.org/content/10.1101/2023.12.07.569910v2), [[Code]](https://github.com/HelloWorldLTY/scELMo)
   - [bioRxiv] Evaluating the Utilities of Foundation Models in Single-cell Data Analysis. [[Paper]](https://www.biorxiv.org/content/10.1101/2023.09.08.555192v5), [[Code]](https://github.com/HelloWorldLTY/scEval)
   - [bioRxiv] GeneCompass: Deciphering Universal Gene Regulatory Mechanisms with Knowledge-Informed Cross-Species Foundation Model. [[Paper]](https://www.biorxiv.org/content/10.1101/2023.09.26.559542v1), [[Code]](https://github.com/xCompass-AI/GeneCompass)
-  - [bioRxiv] CellPLM: Pre-training of Cell Language Model Beyond Single Cells. [[Paper]](https://www.biorxiv.org/content/10.1101/2023.10.03.560734v1), [[Code]](https://github.com/OmicsML/CellPLM)
+ 
 **2022**
   - [Nature Machine Intelligence] scBERT as a large-scale pretrained deep language model for cell type annotation of single-cell RNA-seq data. [[Paper]](https://www.nature.com/articles/s42256-022-00534-z), [[Code]](https://github.com/TencentAILabHealthcare/scBERT)
   - [bioRxiv] Interpretable RNA foundation model from unannotated data for highly accurate RNA structure and function predictions. [[Paper]](https://www.biorxiv.org/content/10.1101/2022.08.06.503062v2), [[Code]](https://github.com/ml4bio/RNA-FM)
