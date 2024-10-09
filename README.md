@@ -57,7 +57,7 @@ If you find this repository is useful for you, please cite our paper:
 - [arXiv] Large language models in bioinformatics: applications and perspectives. [[Paper]](https://arxiv.org/abs/2401.04155)
 - [arXiv] Data-centric foundation models in computational healthcare: A survey. [[Paper]](https://arxiv.org/abs/2401.02458)
 - [arXiv] Vision-Language Models for Medical Report Generation and Visual Question Answering: A Review. [[Paper]](https://arxiv.org/pdf/2403.02469.pdf)
-- 
+  
 **2023**
 - [ACM Computing Surveys] Pre-trained language models in biomedical domain: A systematic survey. [[Paper]](https://dl.acm.org/doi/full/10.1145/3611651)
 - [Nature medicine] Large language models in medicine. [[Paper]](https://www.nature.com/articles/s41591-023-02448-8)
