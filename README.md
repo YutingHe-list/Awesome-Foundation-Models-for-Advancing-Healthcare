@@ -77,6 +77,7 @@ If you find this repository is useful for you, please cite our paper:
 ## LFM methods
 **2024**
 - [AAAI] Zhongjing: Enhancing the chinese medical capabilities of large language model through expert feedback and realworld multi-turn dialogue. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/29907) [[Code]](https://github.com/SupritYoung/Zhongjing)
+- [NeurIPS] MDAgents: An adaptive collaboration of LLMs for medical decision-making. [[Paper]](https://arxiv.org/abs/2404.15155) [[Code]](https://github.com/mitmedialab/MDAgents)
 - [arXiv] Me LLaMA: Foundation large language models for medical applications [[Paper]](https://arxiv.org/abs/2402.12749) [[Code]](https://github.com/BIDS-Xu-Lab/Me-LLaMA)
 - [arXiv] BioMistral: A collection of open-source pretrained large language models for medical domains [[Paper]](https://arxiv.org/abs/2402.10373) [[Code]](https://huggingface.co/BioMistral/BioMistral-7B)
 - [arXiv] BiMediX: Bilingual medical mixture of experts LLM [[Paper]](https://arxiv.org/abs/2402.13253) [[Code]](https://github.com/mbzuai-oryx/BiMediX)
