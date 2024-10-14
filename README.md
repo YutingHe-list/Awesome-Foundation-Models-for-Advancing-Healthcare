@@ -52,6 +52,7 @@ If you find this repository is useful for you, please cite our paper:
 
 # Related survey
 **2024**
+- [arXiv] A Comprehensive Survey of Foundation Models in Medicine [[Paper]](https://arxiv.org/pdf/2406.10729)
 - [arXiv] Foundation models for biomedical image segmentation: A survey. [[Paper]](https://arxiv.org/abs/2401.07654)
 - [arXiv] Progress and opportunities of foundation models in bioinformatics. [[Paper]](https://arxiv.org/abs/2402.04286)
 - [arXiv] Large language models in bioinformatics: applications and perspectives. [[Paper]](https://arxiv.org/abs/2401.04155)
