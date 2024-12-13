@@ -18,8 +18,7 @@ This repository provides the advancement of current healthcare foundation models
 
 **[Foundation Model for Advancing Healthcare: Challenges, Opportunities and Future Directions](https://arxiv.org/abs/2404.03264)** [中译版](./files/HFM_Chinese.pdf)<br/> 
 [Yuting He](https://yutinghe-list.github.io/), [Fuxiang Huang](https://scholar.google.com/citations?hl=zh-CN&user=4BvQU00AAAAJ), [Xinrui Jiang](https://scholar.google.com/citations?hl=zh-CN&user=OYrbv2oAAAAJ), [Yuxiang Nie](https://jerrrynie.github.io/), [Minghao Wang](https://bmwang.cn/), [Jiguang Wang](https://wang-lab.hkust.edu.hk/people/cv_html/Jiguang_wang_cv.html), [Hao Chen](https://cse.hkust.edu.hk/~jhc/)<br/>
-[SMART Lab](https://hkustsmartlab.github.io/),<br/>
-The Hong Kong University of Science and Technology<br/>
+[SMART Lab](https://hkustsmartlab.github.io/), Hong Kong University of Science and Technology<br/>
 **IEEE Reviews in Biomedical Engineering**<br/>
 <br/>
 
