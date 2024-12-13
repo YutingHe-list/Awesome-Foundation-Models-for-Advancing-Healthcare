@@ -6,7 +6,7 @@
 
 [NEWS.20240405] **The related survey [paper](https://arxiv.org/abs/2404.03264) has been released.**
 
-[NOTE] **If you have any questions, please don't hesitate to [contact us](mailto:yuting.he4@case.edu). If you find our survey beneficial to your work, we would greatly appreciate it if you cite it in your paper.** 
+[NOTE] **If you have any questions, please don't hesitate to [contact us](mailto:yuting.he4@case.edu).** 
 
 Foundation model, which is pre-trained on broad data and is able to adapt to a wide range of tasks, is advancing healthcare. It promotes the development of healthcare artificial intelligence (AI) models, breaking the contradiction between limited AI models and diverse healthcare practices. Much more widespread healthcare scenarios will benefit from the development of a healthcare foundation model (HFM), improving their advanced intelligent healthcare services.
 
@@ -23,16 +23,18 @@ The Hong Kong University of Science and Technology<br/>
 **IEEE Reviews in Biomedical Engineering**<br/>
 <br/>
 
-If you find this repository is useful for you, please cite our paper:
+If you find our survey beneficial to your work, we would greatly appreciate it if you cite it in your paper:
 ```
-@misc{he2024foundation,
-      title={Foundation Model for Advancing Healthcare: Challenges, Opportunities, and Future Directions}, 
-      author={Yuting He and Fuxiang Huang and Xinrui Jiang and Yuxiang Nie and Minghao Wang and Jiguang Wang and Hao Chen},
-      year={2024},
-      eprint={2404.03264},
-      archivePrefix={arXiv},
-      primaryClass={cs.CY}
-}
+@ARTICLE{10750441,
+  author={He, Yuting and Huang, Fuxiang and Jiang, Xinrui and Nie, Yuxiang and Wang, Minghao and Wang, Jiguang and Chen, Hao},
+  journal={IEEE Reviews in Biomedical Engineering}, 
+  title={Foundation Model for Advancing Healthcare: Challenges, Opportunities and Future Directions}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-20},
+  doi={10.1109/RBME.2024.3496744}}
+
 ```
 
 # Contents
